@@ -1,0 +1,44 @@
+# =============================================================================
+# Test profile — in-memory H2
+# =============================================================================
+# MySQL stays the production/default database (see application.yml). This profile
+# exists so the test suite can exercise the full stack — controllers, security,
+# services, JPA mappings, the catalogue seeder and the order flow — without needing
+# a running MySQL server in CI.
+#
+#   mvn test
+# =============================================================================
+spring:
+  datasource:
+    url: jdbc:h2:mem:nutricart;DB_CLOSE_DELAY=-1;MODE=MySQL;DATABASE_TO_LOWER=TRUE
+    driver-class-name: org.h2.Driver
+    username: sa
+    password: ''
+  jpa:
+    hibernate:
+      ddl-auto: create-drop
+    properties:
+      hibernate:
+        dialect: org.hibernate.dialect.H2Dialect
+    open-in-view: false
+
+nutricart:
+  jwt:
+    secret: nutricart-test-secret-key-that-is-long-enough-for-hs256-0123456789
+    expiration-minutes: 60
+  cors:
+    allowed-origins: http://localhost:5173
+  order:
+    processing-after-minutes: 2
+    packed-after-minutes: 5
+    out-for-delivery-after-minutes: 8
+    delivered-after-minutes: 15
+    cancellation-window-seconds: 60
+  seed:
+    # The seeder must run so the API tests work against the real catalogue JSON.
+    catalogue: true
+
+logging:
+  level:
+    root: warn
+    com.nutricart: info

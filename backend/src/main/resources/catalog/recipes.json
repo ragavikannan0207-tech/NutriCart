@@ -1,0 +1,1062 @@
+[
+  {
+    "code": "protein-egg-bowl",
+    "name": "Protein Egg Bowl",
+    "description": "Three eggs scrambled over wilted spinach with fresh tomato and onion. A 10-minute breakfast that carries serious protein.",
+    "prepTimeMinutes": 5,
+    "cookTimeMinutes": 8,
+    "servings": 1,
+    "dietType": "Non-Vegetarian",
+    "mealSlots": [
+      "Breakfast"
+    ],
+    "tags": [
+      "high protein",
+      "quick",
+      "breakfast",
+      "one pan"
+    ],
+    "steps": [
+      "Heat the oil in a non-stick pan and saute the onion until translucent.",
+      "Add the tomato and cook for two minutes until it softens.",
+      "Fold in the spinach and let it wilt completely.",
+      "Push the vegetables aside, pour in the beaten eggs and scramble gently.",
+      "Season with salt and pepper and serve hot straight from the pan."
+    ],
+    "swapCodes": [
+      "tofu"
+    ],
+    "calories": 324.4,
+    "protein": 21.9,
+    "carbs": 11.2,
+    "fat": 21.4,
+    "fiber": 3,
+    "ingredients": [
+      {
+        "productCode": "farm-fresh-eggs",
+        "quantity": 3,
+        "unit": "piece",
+        "normalisedQuantity": 3,
+        "normalisedUnit": "piece",
+        "optional": false,
+        "note": ""
+      },
+      {
+        "productCode": "baby-spinach",
+        "quantity": 60,
+        "unit": "g",
+        "normalisedQuantity": 60,
+        "normalisedUnit": "g",
+        "optional": false,
+        "note": ""
+      },
+      {
+        "productCode": "tomato",
+        "quantity": 80,
+        "unit": "g",
+        "normalisedQuantity": 80,
+        "normalisedUnit": "g",
+        "optional": false,
+        "note": ""
+      },
+      {
+        "productCode": "onion",
+        "quantity": 40,
+        "unit": "g",
+        "normalisedQuantity": 40,
+        "normalisedUnit": "g",
+        "optional": false,
+        "note": ""
+      },
+      {
+        "productCode": "cooking-oil",
+        "quantity": 5,
+        "unit": "ml",
+        "normalisedQuantity": 5,
+        "normalisedUnit": "ml",
+        "optional": false,
+        "note": ""
+      },
+      {
+        "productCode": "green-chilli",
+        "quantity": 5,
+        "unit": "g",
+        "normalisedQuantity": 5,
+        "normalisedUnit": "g",
+        "optional": true,
+        "note": "Skip if you prefer it mild"
+      }
+    ]
+  },
+  {
+    "code": "vegetable-rice-bowl",
+    "name": "Vegetable Rice Bowl",
+    "description": "Fluffy brown rice tossed with crunchy carrots, capsicum and sprouts. Meal-prep friendly and stays good for two days.",
+    "prepTimeMinutes": 10,
+    "cookTimeMinutes": 20,
+    "servings": 2,
+    "dietType": "Vegetarian",
+    "mealSlots": [
+      "Lunch",
+      "Dinner"
+    ],
+    "tags": [
+      "high fiber",
+      "meal prep",
+      "wholegrain",
+      "balanced"
+    ],
+    "steps": [
+      "Rinse the brown rice well and pressure cook with twice the water until soft.",
+      "Heat the oil and temper the green chilli for a few seconds.",
+      "Add onion and carrot, then stir-fry on high heat for three minutes.",
+      "Toss in the capsicum and sprouts and cook for another two minutes.",
+      "Fold the cooked rice through the vegetables and adjust the seasoning."
+    ],
+    "swapCodes": [],
+    "calories": 689.1,
+    "protein": 18.9,
+    "carbs": 128.4,
+    "fat": 12.6,
+    "fiber": 14.3,
+    "ingredients": [
+      {
+        "productCode": "brown-rice",
+        "quantity": 120,
+        "unit": "g",
+        "normalisedQuantity": 120,
+        "normalisedUnit": "g",
+        "optional": false,
+        "note": ""
+      },
+      {
+        "productCode": "carrot",
+        "quantity": 100,
+        "unit": "g",
+        "normalisedQuantity": 100,
+        "normalisedUnit": "g",
+        "optional": false,
+        "note": ""
+      },
+      {
+        "productCode": "capsicum",
+        "quantity": 100,
+        "unit": "g",
+        "normalisedQuantity": 100,
+        "normalisedUnit": "g",
+        "optional": false,
+        "note": ""
+      },
+      {
+        "productCode": "sprouts",
+        "quantity": 100,
+        "unit": "g",
+        "normalisedQuantity": 100,
+        "normalisedUnit": "g",
+        "optional": false,
+        "note": ""
+      },
+      {
+        "productCode": "onion",
+        "quantity": 60,
+        "unit": "g",
+        "normalisedQuantity": 60,
+        "normalisedUnit": "g",
+        "optional": false,
+        "note": ""
+      },
+      {
+        "productCode": "cooking-oil",
+        "quantity": 8,
+        "unit": "ml",
+        "normalisedQuantity": 8,
+        "normalisedUnit": "ml",
+        "optional": false,
+        "note": ""
+      },
+      {
+        "productCode": "green-chilli",
+        "quantity": 5,
+        "unit": "g",
+        "normalisedQuantity": 5,
+        "normalisedUnit": "g",
+        "optional": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "code": "paneer-wrap",
+    "name": "Paneer Wrap",
+    "description": "Pan-seared paneer with peppers and onion rolled into a warm whole wheat wrap. Portable, filling and protein rich.",
+    "prepTimeMinutes": 10,
+    "cookTimeMinutes": 12,
+    "servings": 1,
+    "dietType": "Vegetarian",
+    "mealSlots": [
+      "Lunch",
+      "Dinner"
+    ],
+    "tags": [
+      "high protein",
+      "lunch box",
+      "quick"
+    ],
+    "steps": [
+      "Cut the paneer into cubes and pan-sear in half the oil until golden.",
+      "In the same pan saute onion, capsicum and tomato with the remaining oil.",
+      "Return the paneer, add the chilli and toss for one minute.",
+      "Warm the bread slices and pile the filling along one edge.",
+      "Roll tightly, press the seam and serve immediately."
+    ],
+    "swapCodes": [
+      "low-fat-paneer",
+      "tofu"
+    ],
+    "calories": 578,
+    "protein": 28.6,
+    "carbs": 44.8,
+    "fat": 32,
+    "fiber": 7.1,
+    "ingredients": [
+      {
+        "productCode": "paneer",
+        "quantity": 100,
+        "unit": "g",
+        "normalisedQuantity": 100,
+        "normalisedUnit": "g",
+        "optional": false,
+        "note": ""
+      },
+      {
+        "productCode": "whole-wheat-bread",
+        "quantity": 80,
+        "unit": "g",
+        "normalisedQuantity": 80,
+        "normalisedUnit": "g",
+        "optional": false,
+        "note": ""
+      },
+      {
+        "productCode": "capsicum",
+        "quantity": 60,
+        "unit": "g",
+        "normalisedQuantity": 60,
+        "normalisedUnit": "g",
+        "optional": false,
+        "note": ""
+      },
+      {
+        "productCode": "onion",
+        "quantity": 40,
+        "unit": "g",
+        "normalisedQuantity": 40,
+        "normalisedUnit": "g",
+        "optional": false,
+        "note": ""
+      },
+      {
+        "productCode": "tomato",
+        "quantity": 50,
+        "unit": "g",
+        "normalisedQuantity": 50,
+        "normalisedUnit": "g",
+        "optional": false,
+        "note": ""
+      },
+      {
+        "productCode": "cooking-oil",
+        "quantity": 6,
+        "unit": "ml",
+        "normalisedQuantity": 6,
+        "normalisedUnit": "ml",
+        "optional": false,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "code": "oats-banana-bowl",
+    "name": "Oats Banana Bowl",
+    "description": "Creamy oats simmered in toned milk and finished with banana and a spoon of peanut butter. The fastest slow-carb breakfast.",
+    "prepTimeMinutes": 2,
+    "cookTimeMinutes": 6,
+    "servings": 1,
+    "dietType": "Vegetarian",
+    "mealSlots": [
+      "Breakfast"
+    ],
+    "tags": [
+      "high fiber",
+      "quick",
+      "breakfast",
+      "heart healthy"
+    ],
+    "steps": [
+      "Bring the milk to a gentle simmer in a small saucepan.",
+      "Stir in the oats and cook for four minutes until creamy.",
+      "Slice the banana and fold half of it through the oats.",
+      "Pour into a bowl and top with the remaining banana.",
+      "Finish with a spoon of peanut butter and eat warm."
+    ],
+    "swapCodes": [
+      "protein-oats",
+      "high-protein-peanut-butter"
+    ],
+    "calories": 468.5,
+    "protein": 18.4,
+    "carbs": 74.2,
+    "fat": 14.1,
+    "fiber": 9.3,
+    "ingredients": [
+      {
+        "productCode": "oats",
+        "quantity": 50,
+        "unit": "g",
+        "normalisedQuantity": 50,
+        "normalisedUnit": "g",
+        "optional": false,
+        "note": ""
+      },
+      {
+        "productCode": "low-fat-milk",
+        "quantity": 200,
+        "unit": "ml",
+        "normalisedQuantity": 200,
+        "normalisedUnit": "ml",
+        "optional": false,
+        "note": ""
+      },
+      {
+        "productCode": "banana",
+        "quantity": 1,
+        "unit": "piece",
+        "normalisedQuantity": 1,
+        "normalisedUnit": "piece",
+        "optional": false,
+        "note": ""
+      },
+      {
+        "productCode": "peanut-butter",
+        "quantity": 15,
+        "unit": "g",
+        "normalisedQuantity": 15,
+        "normalisedUnit": "g",
+        "optional": false,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "code": "dal-khichdi",
+    "name": "Dal Khichdi",
+    "description": "Moong dal and brown rice cooked together into a soft, comforting khichdi. Light on the stomach and heavy on comfort.",
+    "prepTimeMinutes": 10,
+    "cookTimeMinutes": 25,
+    "servings": 2,
+    "dietType": "Vegetarian",
+    "mealSlots": [
+      "Lunch",
+      "Dinner"
+    ],
+    "tags": [
+      "easy digestion",
+      "comfort food",
+      "budget friendly",
+      "one pot"
+    ],
+    "steps": [
+      "Rinse the dal and rice together until the water runs clear.",
+      "Heat the oil and saute onion, tomato and chilli for three minutes.",
+      "Add the dal, rice and four cups of water with salt.",
+      "Pressure cook for four whistles until completely soft.",
+      "Rest for five minutes, stir well and serve with curd."
+    ],
+    "swapCodes": [],
+    "calories": 670.7,
+    "protein": 26.7,
+    "carbs": 118.6,
+    "fat": 11.5,
+    "fiber": 17.2,
+    "ingredients": [
+      {
+        "productCode": "moong-dal",
+        "quantity": 80,
+        "unit": "g",
+        "normalisedQuantity": 80,
+        "normalisedUnit": "g",
+        "optional": false,
+        "note": ""
+      },
+      {
+        "productCode": "brown-rice",
+        "quantity": 80,
+        "unit": "g",
+        "normalisedQuantity": 80,
+        "normalisedUnit": "g",
+        "optional": false,
+        "note": ""
+      },
+      {
+        "productCode": "onion",
+        "quantity": 50,
+        "unit": "g",
+        "normalisedQuantity": 50,
+        "normalisedUnit": "g",
+        "optional": false,
+        "note": ""
+      },
+      {
+        "productCode": "tomato",
+        "quantity": 60,
+        "unit": "g",
+        "normalisedQuantity": 60,
+        "normalisedUnit": "g",
+        "optional": false,
+        "note": ""
+      },
+      {
+        "productCode": "cooking-oil",
+        "quantity": 8,
+        "unit": "ml",
+        "normalisedQuantity": 8,
+        "normalisedUnit": "ml",
+        "optional": false,
+        "note": ""
+      },
+      {
+        "productCode": "green-chilli",
+        "quantity": 5,
+        "unit": "g",
+        "normalisedQuantity": 5,
+        "normalisedUnit": "g",
+        "optional": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "code": "greek-yogurt-fruit-bowl",
+    "name": "Greek Yogurt Fruit Bowl",
+    "description": "Thick Greek yogurt layered with kiwi, banana, almonds and granola. No cooking, 20 g of protein, ready in three minutes.",
+    "prepTimeMinutes": 5,
+    "cookTimeMinutes": 0,
+    "servings": 1,
+    "dietType": "Vegetarian",
+    "mealSlots": [
+      "Breakfast"
+    ],
+    "tags": [
+      "no cook",
+      "high protein",
+      "probiotics",
+      "breakfast"
+    ],
+    "steps": [
+      "Spoon the Greek yogurt into a wide bowl and smooth the top.",
+      "Slice the kiwi and banana into even pieces.",
+      "Arrange the fruit over the yogurt.",
+      "Scatter the granola and chopped almonds on top.",
+      "Serve immediately so the granola stays crunchy."
+    ],
+    "swapCodes": [
+      "curd"
+    ],
+    "calories": 510.9,
+    "protein": 24.8,
+    "carbs": 63.6,
+    "fat": 19.3,
+    "fiber": 9.3,
+    "ingredients": [
+      {
+        "productCode": "greek-yogurt",
+        "quantity": 150,
+        "unit": "g",
+        "normalisedQuantity": 150,
+        "normalisedUnit": "g",
+        "optional": false,
+        "note": ""
+      },
+      {
+        "productCode": "kiwi",
+        "quantity": 1,
+        "unit": "piece",
+        "normalisedQuantity": 1,
+        "normalisedUnit": "piece",
+        "optional": false,
+        "note": ""
+      },
+      {
+        "productCode": "banana",
+        "quantity": 1,
+        "unit": "piece",
+        "normalisedQuantity": 1,
+        "normalisedUnit": "piece",
+        "optional": false,
+        "note": ""
+      },
+      {
+        "productCode": "almonds",
+        "quantity": 15,
+        "unit": "g",
+        "normalisedQuantity": 15,
+        "normalisedUnit": "g",
+        "optional": false,
+        "note": ""
+      },
+      {
+        "productCode": "high-protein-granola",
+        "quantity": 30,
+        "unit": "g",
+        "normalisedQuantity": 30,
+        "normalisedUnit": "g",
+        "optional": false,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "code": "tomato-rice",
+    "name": "Tomato Rice",
+    "description": "Tangy one-pot tomato rice with browned onion and a hint of chilli. Uses pantry staples you almost always already have.",
+    "prepTimeMinutes": 8,
+    "cookTimeMinutes": 20,
+    "servings": 2,
+    "dietType": "Vegetarian",
+    "mealSlots": [
+      "Lunch",
+      "Dinner"
+    ],
+    "tags": [
+      "one pot",
+      "budget friendly",
+      "everyday"
+    ],
+    "steps": [
+      "Cook the brown rice until just tender and spread it out to cool.",
+      "Heat the oil and fry the onion until deep golden.",
+      "Add tomatoes, chilli and salt and cook until the mixture thickens.",
+      "Fold the rice through the tomato masala until evenly coated.",
+      "Cover and steam on low heat for three minutes before serving."
+    ],
+    "swapCodes": [],
+    "calories": 567.1,
+    "protein": 12,
+    "carbs": 105,
+    "fat": 12,
+    "fiber": 7.7,
+    "ingredients": [
+      {
+        "productCode": "brown-rice",
+        "quantity": 120,
+        "unit": "g",
+        "normalisedQuantity": 120,
+        "normalisedUnit": "g",
+        "optional": false,
+        "note": ""
+      },
+      {
+        "productCode": "tomato",
+        "quantity": 200,
+        "unit": "g",
+        "normalisedQuantity": 200,
+        "normalisedUnit": "g",
+        "optional": false,
+        "note": ""
+      },
+      {
+        "productCode": "onion",
+        "quantity": 60,
+        "unit": "g",
+        "normalisedQuantity": 60,
+        "normalisedUnit": "g",
+        "optional": false,
+        "note": ""
+      },
+      {
+        "productCode": "cooking-oil",
+        "quantity": 8,
+        "unit": "ml",
+        "normalisedQuantity": 8,
+        "normalisedUnit": "ml",
+        "optional": false,
+        "note": ""
+      },
+      {
+        "productCode": "green-chilli",
+        "quantity": 5,
+        "unit": "g",
+        "normalisedQuantity": 5,
+        "normalisedUnit": "g",
+        "optional": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "code": "bread-omelette",
+    "name": "Bread Omelette",
+    "description": "A fluffy two-egg omelette with onion and tomato, folded between toasted whole wheat bread. The quickest 8 g of protein in the morning.",
+    "prepTimeMinutes": 4,
+    "cookTimeMinutes": 6,
+    "servings": 1,
+    "dietType": "Non-Vegetarian",
+    "mealSlots": [
+      "Breakfast"
+    ],
+    "tags": [
+      "quick",
+      "breakfast",
+      "high protein"
+    ],
+    "steps": [
+      "Beat the eggs with salt, pepper and chopped onion and tomato.",
+      "Heat the oil in a flat pan over medium heat.",
+      "Pour in the egg mixture and spread it evenly.",
+      "Cook until the edges set, then flip carefully and cook for one more minute.",
+      "Toast the bread, place the omelette between the slices and serve."
+    ],
+    "swapCodes": [
+      "tofu"
+    ],
+    "calories": 357.6,
+    "protein": 18.5,
+    "carbs": 30.6,
+    "fat": 17.5,
+    "fiber": 4.3,
+    "ingredients": [
+      {
+        "productCode": "farm-fresh-eggs",
+        "quantity": 2,
+        "unit": "piece",
+        "normalisedQuantity": 2,
+        "normalisedUnit": "piece",
+        "optional": false,
+        "note": ""
+      },
+      {
+        "productCode": "whole-wheat-bread",
+        "quantity": 60,
+        "unit": "g",
+        "normalisedQuantity": 60,
+        "normalisedUnit": "g",
+        "optional": false,
+        "note": ""
+      },
+      {
+        "productCode": "onion",
+        "quantity": 20,
+        "unit": "g",
+        "normalisedQuantity": 20,
+        "normalisedUnit": "g",
+        "optional": false,
+        "note": ""
+      },
+      {
+        "productCode": "tomato",
+        "quantity": 30,
+        "unit": "g",
+        "normalisedQuantity": 30,
+        "normalisedUnit": "g",
+        "optional": false,
+        "note": ""
+      },
+      {
+        "productCode": "cooking-oil",
+        "quantity": 5,
+        "unit": "ml",
+        "normalisedQuantity": 5,
+        "normalisedUnit": "ml",
+        "optional": false,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "code": "egg-rice",
+    "name": "Egg Rice",
+    "description": "Leftover brown rice rescued with scrambled eggs, onion and capsicum. A complete one-bowl meal in fifteen minutes.",
+    "prepTimeMinutes": 5,
+    "cookTimeMinutes": 12,
+    "servings": 1,
+    "dietType": "Non-Vegetarian",
+    "mealSlots": [
+      "Lunch",
+      "Dinner"
+    ],
+    "tags": [
+      "quick",
+      "high protein",
+      "leftover friendly"
+    ],
+    "steps": [
+      "Heat the oil in a wok and scramble the eggs until just set, then set aside.",
+      "In the same wok saute onion and capsicum on high heat for two minutes.",
+      "Add the cooked rice and toss until every grain is coated.",
+      "Return the eggs, season with salt and pepper and mix well.",
+      "Serve hot with a side of curd."
+    ],
+    "swapCodes": [
+      "tofu",
+      "paneer"
+    ],
+    "calories": 669.4,
+    "protein": 23,
+    "carbs": 98.4,
+    "fat": 20.2,
+    "fiber": 5.7,
+    "ingredients": [
+      {
+        "productCode": "farm-fresh-eggs",
+        "quantity": 2,
+        "unit": "piece",
+        "normalisedQuantity": 2,
+        "normalisedUnit": "piece",
+        "optional": false,
+        "note": ""
+      },
+      {
+        "productCode": "brown-rice",
+        "quantity": 120,
+        "unit": "g",
+        "normalisedQuantity": 120,
+        "normalisedUnit": "g",
+        "optional": false,
+        "note": ""
+      },
+      {
+        "productCode": "onion",
+        "quantity": 40,
+        "unit": "g",
+        "normalisedQuantity": 40,
+        "normalisedUnit": "g",
+        "optional": false,
+        "note": ""
+      },
+      {
+        "productCode": "capsicum",
+        "quantity": 50,
+        "unit": "g",
+        "normalisedQuantity": 50,
+        "normalisedUnit": "g",
+        "optional": false,
+        "note": ""
+      },
+      {
+        "productCode": "cooking-oil",
+        "quantity": 6,
+        "unit": "ml",
+        "normalisedQuantity": 6,
+        "normalisedUnit": "ml",
+        "optional": false,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "code": "tofu-stir-fry-bowl",
+    "name": "Tofu Stir Fry Bowl",
+    "description": "Golden tofu and broccoli tossed in a light masala over brown rice. Vegan, high protein and ready in twenty minutes.",
+    "prepTimeMinutes": 10,
+    "cookTimeMinutes": 15,
+    "servings": 2,
+    "dietType": "Vegetarian",
+    "mealSlots": [
+      "Lunch",
+      "Dinner"
+    ],
+    "tags": [
+      "plant protein",
+      "vegan",
+      "high fiber"
+    ],
+    "steps": [
+      "Press the tofu and cut it into bite-sized cubes.",
+      "Sear the tofu in hot oil until all sides are golden, then set aside.",
+      "Stir-fry broccoli and capsicum for three minutes so they stay crisp.",
+      "Return the tofu, add salt and pepper and toss well.",
+      "Spoon over the cooked brown rice and serve."
+    ],
+    "swapCodes": [],
+    "calories": 701.5,
+    "protein": 35.5,
+    "carbs": 90.9,
+    "fat": 24.5,
+    "fiber": 9.4,
+    "ingredients": [
+      {
+        "productCode": "tofu",
+        "quantity": 150,
+        "unit": "g",
+        "normalisedQuantity": 150,
+        "normalisedUnit": "g",
+        "optional": false,
+        "note": ""
+      },
+      {
+        "productCode": "broccoli",
+        "quantity": 120,
+        "unit": "g",
+        "normalisedQuantity": 120,
+        "normalisedUnit": "g",
+        "optional": false,
+        "note": ""
+      },
+      {
+        "productCode": "capsicum",
+        "quantity": 60,
+        "unit": "g",
+        "normalisedQuantity": 60,
+        "normalisedUnit": "g",
+        "optional": false,
+        "note": ""
+      },
+      {
+        "productCode": "brown-rice",
+        "quantity": 100,
+        "unit": "g",
+        "normalisedQuantity": 100,
+        "normalisedUnit": "g",
+        "optional": false,
+        "note": ""
+      },
+      {
+        "productCode": "cooking-oil",
+        "quantity": 8,
+        "unit": "ml",
+        "normalisedQuantity": 8,
+        "normalisedUnit": "ml",
+        "optional": false,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "code": "sprout-chaat",
+    "name": "Sprout Chaat",
+    "description": "Raw mixed sprouts tossed with cucumber, tomato and onion and finished with lime and chilli. Live food with no cooking at all.",
+    "prepTimeMinutes": 8,
+    "cookTimeMinutes": 0,
+    "servings": 2,
+    "dietType": "Vegetarian",
+    "mealSlots": [
+      "Lunch"
+    ],
+    "tags": [
+      "no cook",
+      "low calorie",
+      "high fiber",
+      "salad"
+    ],
+    "steps": [
+      "Rinse the sprouts well under running water and drain.",
+      "Finely chop the cucumber, tomato and onion.",
+      "Combine everything in a bowl with the chopped chilli.",
+      "Add salt and a generous squeeze of lime.",
+      "Toss and serve immediately while the vegetables are still crunchy."
+    ],
+    "swapCodes": [],
+    "calories": 182.3,
+    "protein": 11.9,
+    "carbs": 34,
+    "fat": 1.2,
+    "fiber": 8.5,
+    "ingredients": [
+      {
+        "productCode": "sprouts",
+        "quantity": 150,
+        "unit": "g",
+        "normalisedQuantity": 150,
+        "normalisedUnit": "g",
+        "optional": false,
+        "note": ""
+      },
+      {
+        "productCode": "cucumber",
+        "quantity": 80,
+        "unit": "g",
+        "normalisedQuantity": 80,
+        "normalisedUnit": "g",
+        "optional": false,
+        "note": ""
+      },
+      {
+        "productCode": "tomato",
+        "quantity": 60,
+        "unit": "g",
+        "normalisedQuantity": 60,
+        "normalisedUnit": "g",
+        "optional": false,
+        "note": ""
+      },
+      {
+        "productCode": "onion",
+        "quantity": 30,
+        "unit": "g",
+        "normalisedQuantity": 30,
+        "normalisedUnit": "g",
+        "optional": false,
+        "note": ""
+      },
+      {
+        "productCode": "green-chilli",
+        "quantity": 5,
+        "unit": "g",
+        "normalisedQuantity": 5,
+        "normalisedUnit": "g",
+        "optional": true,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "code": "quinoa-veggie-salad",
+    "name": "Quinoa Veggie Salad",
+    "description": "Fluffy quinoa with spinach, cucumber and tomato dressed simply with oil and lemon. Great cold the next day too.",
+    "prepTimeMinutes": 10,
+    "cookTimeMinutes": 15,
+    "servings": 2,
+    "dietType": "Vegetarian",
+    "mealSlots": [
+      "Lunch",
+      "Dinner"
+    ],
+    "tags": [
+      "complete protein",
+      "salad",
+      "meal prep",
+      "gluten free"
+    ],
+    "steps": [
+      "Rinse the quinoa thoroughly to remove the bitter coating.",
+      "Simmer in twice the volume of water for fifteen minutes until the grains open.",
+      "Cool the quinoa completely and fluff it with a fork.",
+      "Fold through the spinach, cucumber and tomato.",
+      "Dress with oil, salt and lemon and serve at room temperature."
+    ],
+    "swapCodes": [],
+    "calories": 485.5,
+    "protein": 17.3,
+    "carbs": 73.7,
+    "fat": 14.5,
+    "fiber": 10,
+    "ingredients": [
+      {
+        "productCode": "quinoa",
+        "quantity": 100,
+        "unit": "g",
+        "normalisedQuantity": 100,
+        "normalisedUnit": "g",
+        "optional": false,
+        "note": ""
+      },
+      {
+        "productCode": "baby-spinach",
+        "quantity": 60,
+        "unit": "g",
+        "normalisedQuantity": 60,
+        "normalisedUnit": "g",
+        "optional": false,
+        "note": ""
+      },
+      {
+        "productCode": "cucumber",
+        "quantity": 100,
+        "unit": "g",
+        "normalisedQuantity": 100,
+        "normalisedUnit": "g",
+        "optional": false,
+        "note": ""
+      },
+      {
+        "productCode": "tomato",
+        "quantity": 100,
+        "unit": "g",
+        "normalisedQuantity": 100,
+        "normalisedUnit": "g",
+        "optional": false,
+        "note": ""
+      },
+      {
+        "productCode": "cooking-oil",
+        "quantity": 8,
+        "unit": "ml",
+        "normalisedQuantity": 8,
+        "normalisedUnit": "ml",
+        "optional": false,
+        "note": ""
+      }
+    ]
+  },
+  {
+    "code": "high-protein-smoothie",
+    "name": "High Protein Banana Smoothie",
+    "description": "Blended protein oats, milk, banana and peanut butter. Thirty seconds of effort for a genuinely filling post-workout shake.",
+    "prepTimeMinutes": 3,
+    "cookTimeMinutes": 0,
+    "servings": 1,
+    "dietType": "Vegetarian",
+    "mealSlots": [
+      "Breakfast"
+    ],
+    "tags": [
+      "no cook",
+      "high protein",
+      "post workout",
+      "fitness"
+    ],
+    "steps": [
+      "Add the milk, protein oats and banana to a blender jar.",
+      "Spoon in the peanut butter and a pinch of salt.",
+      "Blend on high for forty seconds until completely smooth.",
+      "Pour into a chilled glass and drink within ten minutes."
+    ],
+    "swapCodes": [
+      "oats",
+      "peanut-butter"
+    ],
+    "calories": 501.3,
+    "protein": 26.8,
+    "carbs": 70.7,
+    "fat": 15.1,
+    "fiber": 9.7,
+    "ingredients": [
+      {
+        "productCode": "protein-oats",
+        "quantity": 50,
+        "unit": "g",
+        "normalisedQuantity": 50,
+        "normalisedUnit": "g",
+        "optional": false,
+        "note": ""
+      },
+      {
+        "productCode": "low-fat-milk",
+        "quantity": 250,
+        "unit": "ml",
+        "normalisedQuantity": 250,
+        "normalisedUnit": "ml",
+        "optional": false,
+        "note": ""
+      },
+      {
+        "productCode": "banana",
+        "quantity": 1,
+        "unit": "piece",
+        "normalisedQuantity": 1,
+        "normalisedUnit": "piece",
+        "optional": false,
+        "note": ""
+      },
+      {
+        "productCode": "high-protein-peanut-butter",
+        "quantity": 15,
+        "unit": "g",
+        "normalisedQuantity": 15,
+        "normalisedUnit": "g",
+        "optional": false,
+        "note": ""
+      }
+    ]
+  }
+]

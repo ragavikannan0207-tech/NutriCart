@@ -1,0 +1,3033 @@
+[
+  {
+    "code": "hass-avocado",
+    "name": "Hass Avocado",
+    "category": "Fruits",
+    "secondaryCategories": [],
+    "price": 249,
+    "mrp": 299,
+    "unit": "1 pack (2 pcs, ~300 g)",
+    "packSize": 300,
+    "packUnit": "g",
+    "nutritionBasis": "per 100 g",
+    "basisAmount": 100,
+    "packGrams": 300,
+    "description": "Creamy ripe Hass avocados with buttery flesh. Naturally rich in heart-healthy monounsaturated fats — perfect for toast, salads and smoothies.",
+    "rating": 4.5,
+    "reviewCount": 218,
+    "availability": "Low Stock",
+    "stockCount": 11,
+    "calories": 160,
+    "protein": 2,
+    "carbs": 8.5,
+    "fat": 14.7,
+    "fiber": 6.7,
+    "dietType": "Vegetarian",
+    "tags": [
+      "healthy fats",
+      "keto friendly",
+      "high fiber",
+      "fresh"
+    ],
+    "keywords": [
+      "avocado",
+      "butter fruit",
+      "healthy fat",
+      "salad",
+      "toast",
+      "smoothie"
+    ],
+    "healthyBenefits": [
+      "Rich in monounsaturated fats",
+      "Supports heart health",
+      "High in dietary fibre"
+    ],
+    "relatedCodes": [
+      "tomato",
+      "cucumber",
+      "baby-spinach"
+    ],
+    "alternativeCodes": [
+      "walnuts"
+    ],
+    "isNew": false,
+    "isBestseller": true,
+    "createdAt": "2026-01-02T00:00:00.000Z"
+  },
+  {
+    "code": "apple",
+    "name": "Apple (Shimla)",
+    "category": "Fruits",
+    "secondaryCategories": [],
+    "price": 180,
+    "mrp": 210,
+    "unit": "1 kg (approx. 6 pcs)",
+    "packSize": 1000,
+    "packUnit": "g",
+    "nutritionBasis": "per 100 g",
+    "basisAmount": 100,
+    "packGrams": 1000,
+    "description": "Crisp juicy Shimla apples picked at peak season. A crunchy low-calorie snack that pairs beautifully with peanut butter or oats.",
+    "rating": 4.4,
+    "reviewCount": 342,
+    "availability": "In Stock",
+    "stockCount": 64,
+    "calories": 52,
+    "protein": 0.3,
+    "carbs": 13.8,
+    "fat": 0.2,
+    "fiber": 2.4,
+    "dietType": "Vegetarian",
+    "tags": [
+      "low calorie",
+      "high fiber",
+      "fresh",
+      "snack"
+    ],
+    "keywords": [
+      "apple",
+      "fruit",
+      "shimla",
+      "snack",
+      "breakfast"
+    ],
+    "healthyBenefits": [
+      "Low in calories",
+      "Provides vitamin C",
+      "Fibre supports digestion"
+    ],
+    "relatedCodes": [
+      "banana",
+      "oats",
+      "peanut-butter"
+    ],
+    "alternativeCodes": [
+      "kiwi"
+    ],
+    "isNew": false,
+    "isBestseller": true,
+    "createdAt": "2026-01-03T00:00:00.000Z"
+  },
+  {
+    "code": "banana",
+    "name": "Banana (Robusta)",
+    "category": "Fruits",
+    "secondaryCategories": [],
+    "price": 60,
+    "mrp": 60,
+    "unit": "1 dozen",
+    "packSize": 12,
+    "packUnit": "piece",
+    "nutritionBasis": "per 100 g",
+    "basisAmount": 100,
+    "packGrams": 1440,
+    "description": "Naturally ripened bananas with soft sweet flesh. A quick pre-workout energy source and the base of healthy breakfast bowls.",
+    "rating": 4.3,
+    "reviewCount": 512,
+    "availability": "In Stock",
+    "stockCount": 81,
+    "calories": 89,
+    "protein": 1.1,
+    "carbs": 22.8,
+    "fat": 0.3,
+    "fiber": 2.6,
+    "dietType": "Vegetarian",
+    "tags": [
+      "energy",
+      "potassium",
+      "breakfast",
+      "fresh"
+    ],
+    "keywords": [
+      "banana",
+      "fruit",
+      "energy",
+      "pre workout",
+      "smoothie"
+    ],
+    "healthyBenefits": [
+      "Good source of potassium",
+      "Fast natural energy",
+      "Supports muscle recovery"
+    ],
+    "relatedCodes": [
+      "oats",
+      "peanut-butter",
+      "greek-yogurt"
+    ],
+    "alternativeCodes": [
+      "apple"
+    ],
+    "isNew": false,
+    "isBestseller": true,
+    "createdAt": "2026-01-04T00:00:00.000Z"
+  },
+  {
+    "code": "orange",
+    "name": "Orange (Nagpur)",
+    "category": "Fruits",
+    "secondaryCategories": [],
+    "price": 120,
+    "mrp": 120,
+    "unit": "1 kg (approx. 5 pcs)",
+    "packSize": 1000,
+    "packUnit": "g",
+    "nutritionBasis": "per 100 g",
+    "basisAmount": 100,
+    "packGrams": 1000,
+    "description": "Tangy-sweet Nagpur oranges packed with vitamin C. Easy to peel, juicy segments for juices, salads and desserts.",
+    "rating": 4.2,
+    "reviewCount": 196,
+    "availability": "In Stock",
+    "stockCount": 98,
+    "calories": 47,
+    "protein": 0.9,
+    "carbs": 11.8,
+    "fat": 0.1,
+    "fiber": 2.4,
+    "dietType": "Vegetarian",
+    "tags": [
+      "vitamin c",
+      "immunity",
+      "citrus",
+      "fresh"
+    ],
+    "keywords": [
+      "orange",
+      "fruit",
+      "citrus",
+      "juice",
+      "vitamin c"
+    ],
+    "healthyBenefits": [
+      "High in vitamin C",
+      "Supports immunity",
+      "Hydrating citrus fruit"
+    ],
+    "relatedCodes": [
+      "kiwi",
+      "pomegranate",
+      "coconut-water"
+    ],
+    "alternativeCodes": [
+      "coconut-water"
+    ],
+    "isNew": false,
+    "isBestseller": false,
+    "createdAt": "2026-01-05T00:00:00.000Z"
+  },
+  {
+    "code": "pomegranate",
+    "name": "Pomegranate",
+    "category": "Fruits",
+    "secondaryCategories": [],
+    "price": 140,
+    "mrp": 140,
+    "unit": "500 g",
+    "packSize": 500,
+    "packUnit": "g",
+    "nutritionBasis": "per 100 g",
+    "basisAmount": 100,
+    "packGrams": 500,
+    "description": "Deep ruby arils with a sweet-tart bite. Loaded with antioxidants and perfect for bowls, salads and fresh juices.",
+    "rating": 4.4,
+    "reviewCount": 158,
+    "availability": "In Stock",
+    "stockCount": 115,
+    "calories": 83,
+    "protein": 1.7,
+    "carbs": 18.7,
+    "fat": 1.2,
+    "fiber": 4,
+    "dietType": "Vegetarian",
+    "tags": [
+      "antioxidants",
+      "high fiber",
+      "fresh"
+    ],
+    "keywords": [
+      "pomegranate",
+      "anar",
+      "fruit",
+      "antioxidant",
+      "salad"
+    ],
+    "healthyBenefits": [
+      "Rich in antioxidants",
+      "Supports blood health",
+      "High in fibre"
+    ],
+    "relatedCodes": [
+      "apple",
+      "kiwi",
+      "greek-yogurt"
+    ],
+    "alternativeCodes": [
+      "apple"
+    ],
+    "isNew": false,
+    "isBestseller": false,
+    "createdAt": "2026-01-06T00:00:00.000Z"
+  },
+  {
+    "code": "papaya",
+    "name": "Papaya (Ripe)",
+    "category": "Fruits",
+    "secondaryCategories": [],
+    "price": 70,
+    "mrp": 70,
+    "unit": "1 kg",
+    "packSize": 1000,
+    "packUnit": "g",
+    "nutritionBasis": "per 100 g",
+    "basisAmount": 100,
+    "packGrams": 1000,
+    "description": "Soft sweet ripe papaya that is gentle on the stomach. Great for breakfast bowls, smoothies and digestion-friendly snacking.",
+    "rating": 4.1,
+    "reviewCount": 174,
+    "availability": "Out of Stock",
+    "stockCount": 0,
+    "calories": 43,
+    "protein": 0.5,
+    "carbs": 10.8,
+    "fat": 0.3,
+    "fiber": 1.7,
+    "dietType": "Vegetarian",
+    "tags": [
+      "digestion",
+      "low calorie",
+      "fresh"
+    ],
+    "keywords": [
+      "papaya",
+      "fruit",
+      "digestion",
+      "breakfast",
+      "smoothie"
+    ],
+    "healthyBenefits": [
+      "Contains papain for digestion",
+      "Low in calories",
+      "Source of vitamin A"
+    ],
+    "relatedCodes": [
+      "banana",
+      "kiwi",
+      "curd"
+    ],
+    "alternativeCodes": [
+      "watermelon"
+    ],
+    "isNew": false,
+    "isBestseller": false,
+    "createdAt": "2026-01-07T00:00:00.000Z"
+  },
+  {
+    "code": "watermelon",
+    "name": "Watermelon",
+    "category": "Fruits",
+    "secondaryCategories": [],
+    "price": 40,
+    "mrp": 40,
+    "unit": "1 kg",
+    "packSize": 1000,
+    "packUnit": "g",
+    "nutritionBasis": "per 100 g",
+    "basisAmount": 100,
+    "packGrams": 1000,
+    "description": "Thirst-quenching watermelon with bright red flesh. Naturally hydrating and very low in calories.",
+    "rating": 4,
+    "reviewCount": 121,
+    "availability": "Out of Stock",
+    "stockCount": 0,
+    "calories": 30,
+    "protein": 0.6,
+    "carbs": 7.6,
+    "fat": 0.2,
+    "fiber": 0.4,
+    "dietType": "Vegetarian",
+    "tags": [
+      "hydrating",
+      "low calorie",
+      "summer",
+      "fresh"
+    ],
+    "keywords": [
+      "watermelon",
+      "fruit",
+      "hydration",
+      "summer",
+      "juice"
+    ],
+    "healthyBenefits": [
+      "Very high water content",
+      "Low in calories",
+      "Contains lycopene"
+    ],
+    "relatedCodes": [
+      "coconut-water",
+      "papaya",
+      "orange"
+    ],
+    "alternativeCodes": [
+      "coconut-water"
+    ],
+    "isNew": false,
+    "isBestseller": false,
+    "createdAt": "2026-01-08T00:00:00.000Z"
+  },
+  {
+    "code": "kiwi",
+    "name": "Kiwi",
+    "category": "Fruits",
+    "secondaryCategories": [],
+    "price": 150,
+    "mrp": 150,
+    "unit": "1 pack (3 pcs)",
+    "packSize": 3,
+    "packUnit": "piece",
+    "nutritionBasis": "per 100 g",
+    "basisAmount": 100,
+    "packGrams": 225,
+    "description": "Fuzzy brown kiwi with vivid green flesh. Provides more vitamin C than an orange and adds a tangy lift to fruit bowls.",
+    "rating": 4.3,
+    "reviewCount": 143,
+    "availability": "In Stock",
+    "stockCount": 76,
+    "calories": 61,
+    "protein": 1.1,
+    "carbs": 14.7,
+    "fat": 0.5,
+    "fiber": 3,
+    "dietType": "Vegetarian",
+    "tags": [
+      "vitamin c",
+      "high fiber",
+      "immunity",
+      "fresh"
+    ],
+    "keywords": [
+      "kiwi",
+      "fruit",
+      "vitamin c",
+      "immunity",
+      "salad"
+    ],
+    "healthyBenefits": [
+      "Excellent vitamin C source",
+      "Fibre supports gut health",
+      "Low glycemic fruit"
+    ],
+    "relatedCodes": [
+      "orange",
+      "greek-yogurt",
+      "oats"
+    ],
+    "alternativeCodes": [
+      "orange"
+    ],
+    "isNew": false,
+    "isBestseller": false,
+    "createdAt": "2026-01-09T00:00:00.000Z"
+  },
+  {
+    "code": "baby-spinach",
+    "name": "Baby Spinach",
+    "category": "Vegetables",
+    "secondaryCategories": [],
+    "price": 45,
+    "mrp": 45,
+    "unit": "250 g",
+    "packSize": 250,
+    "packUnit": "g",
+    "nutritionBasis": "per 100 g",
+    "basisAmount": 100,
+    "packGrams": 250,
+    "description": "Tender baby spinach leaves, triple-washed and ready to use. Wilts in seconds and blends into smoothies for an iron boost.",
+    "rating": 4.5,
+    "reviewCount": 267,
+    "availability": "In Stock",
+    "stockCount": 93,
+    "calories": 23,
+    "protein": 2.9,
+    "carbs": 3.6,
+    "fat": 0.4,
+    "fiber": 2.2,
+    "dietType": "Vegetarian",
+    "tags": [
+      "iron",
+      "leafy green",
+      "low calorie",
+      "fresh"
+    ],
+    "keywords": [
+      "spinach",
+      "palak",
+      "greens",
+      "iron",
+      "salad",
+      "smoothie"
+    ],
+    "healthyBenefits": [
+      "Rich in iron and folate",
+      "Very low in calories",
+      "Supports bone health"
+    ],
+    "relatedCodes": [
+      "broccoli",
+      "paneer",
+      "eggs"
+    ],
+    "alternativeCodes": [
+      "broccoli"
+    ],
+    "isNew": false,
+    "isBestseller": true,
+    "createdAt": "2026-01-10T00:00:00.000Z"
+  },
+  {
+    "code": "broccoli",
+    "name": "Broccoli",
+    "category": "Vegetables",
+    "secondaryCategories": [],
+    "price": 90,
+    "mrp": 90,
+    "unit": "500 g",
+    "packSize": 500,
+    "packUnit": "g",
+    "nutritionBasis": "per 100 g",
+    "basisAmount": 100,
+    "packGrams": 500,
+    "description": "Firm green florets that steam, roast or stir-fry beautifully. A high-fibre cruciferous vegetable.",
+    "rating": 4.2,
+    "reviewCount": 189,
+    "availability": "In Stock",
+    "stockCount": 110,
+    "calories": 34,
+    "protein": 2.8,
+    "carbs": 6.6,
+    "fat": 0.4,
+    "fiber": 2.6,
+    "dietType": "Vegetarian",
+    "tags": [
+      "high fiber",
+      "cruciferous",
+      "low calorie",
+      "fresh"
+    ],
+    "keywords": [
+      "broccoli",
+      "greens",
+      "fiber",
+      "roast",
+      "stir fry"
+    ],
+    "healthyBenefits": [
+      "High in fibre",
+      "Contains vitamin K and C",
+      "Supports detoxification"
+    ],
+    "relatedCodes": [
+      "baby-spinach",
+      "capsicum",
+      "tofu"
+    ],
+    "alternativeCodes": [
+      "baby-spinach"
+    ],
+    "isNew": false,
+    "isBestseller": false,
+    "createdAt": "2026-01-11T00:00:00.000Z"
+  },
+  {
+    "code": "carrot",
+    "name": "Carrot (Ooty)",
+    "category": "Vegetables",
+    "secondaryCategories": [],
+    "price": 40,
+    "mrp": 40,
+    "unit": "500 g",
+    "packSize": 500,
+    "packUnit": "g",
+    "nutritionBasis": "per 100 g",
+    "basisAmount": 100,
+    "packGrams": 500,
+    "description": "Sweet crunchy Ooty carrots with a deep orange colour. Snack on them raw or add to curries, soups and salads.",
+    "rating": 4.3,
+    "reviewCount": 231,
+    "availability": "In Stock",
+    "stockCount": 37,
+    "calories": 41,
+    "protein": 0.9,
+    "carbs": 9.6,
+    "fat": 0.2,
+    "fiber": 2.8,
+    "dietType": "Vegetarian",
+    "tags": [
+      "vitamin a",
+      "crunchy",
+      "low calorie",
+      "fresh"
+    ],
+    "keywords": [
+      "carrot",
+      "gajar",
+      "salad",
+      "juice",
+      "snack"
+    ],
+    "healthyBenefits": [
+      "Loaded with beta-carotene",
+      "Supports eye health",
+      "Good for skin"
+    ],
+    "relatedCodes": [
+      "beetroot",
+      "cucumber",
+      "tomato"
+    ],
+    "alternativeCodes": [
+      "beetroot"
+    ],
+    "isNew": false,
+    "isBestseller": false,
+    "createdAt": "2026-01-12T00:00:00.000Z"
+  },
+  {
+    "code": "tomato",
+    "name": "Tomato (Hybrid)",
+    "category": "Vegetables",
+    "secondaryCategories": [],
+    "price": 45,
+    "mrp": 45,
+    "unit": "1 kg",
+    "packSize": 1000,
+    "packUnit": "g",
+    "nutritionBasis": "per 100 g",
+    "basisAmount": 100,
+    "packGrams": 1000,
+    "description": "Firm bright red tomatoes with a balanced sweet-tart flavour. The base of curries, salads and sauces.",
+    "rating": 4.1,
+    "reviewCount": 402,
+    "availability": "In Stock",
+    "stockCount": 54,
+    "calories": 18,
+    "protein": 0.9,
+    "carbs": 3.9,
+    "fat": 0.2,
+    "fiber": 1.2,
+    "dietType": "Vegetarian",
+    "tags": [
+      "lycopene",
+      "everyday",
+      "fresh",
+      "low calorie"
+    ],
+    "keywords": [
+      "tomato",
+      "tamatar",
+      "curry",
+      "salad",
+      "sauce"
+    ],
+    "healthyBenefits": [
+      "Source of lycopene",
+      "Very low in calories",
+      "Supports hydration"
+    ],
+    "relatedCodes": [
+      "onion",
+      "green-chilli",
+      "cucumber"
+    ],
+    "alternativeCodes": [
+      "capsicum"
+    ],
+    "isNew": false,
+    "isBestseller": false,
+    "createdAt": "2026-01-13T00:00:00.000Z"
+  },
+  {
+    "code": "cucumber",
+    "name": "Cucumber",
+    "category": "Vegetables",
+    "secondaryCategories": [],
+    "price": 30,
+    "mrp": 30,
+    "unit": "500 g",
+    "packSize": 500,
+    "packUnit": "g",
+    "nutritionBasis": "per 100 g",
+    "basisAmount": 100,
+    "packGrams": 500,
+    "description": "Cool crisp cucumbers with thin edible skin. The crunchiest low-calorie addition to salads and raita.",
+    "rating": 4,
+    "reviewCount": 288,
+    "availability": "In Stock",
+    "stockCount": 71,
+    "calories": 15,
+    "protein": 0.7,
+    "carbs": 3.6,
+    "fat": 0.1,
+    "fiber": 0.5,
+    "dietType": "Vegetarian",
+    "tags": [
+      "hydrating",
+      "low calorie",
+      "salad",
+      "fresh"
+    ],
+    "keywords": [
+      "cucumber",
+      "kheera",
+      "salad",
+      "raita",
+      "hydration"
+    ],
+    "healthyBenefits": [
+      "Hydrating and cooling",
+      "Very low in calories",
+      "Supports digestion"
+    ],
+    "relatedCodes": [
+      "tomato",
+      "curd",
+      "carrot"
+    ],
+    "alternativeCodes": [
+      "tomato"
+    ],
+    "isNew": false,
+    "isBestseller": false,
+    "createdAt": "2026-01-14T00:00:00.000Z"
+  },
+  {
+    "code": "capsicum",
+    "name": "Capsicum (Green)",
+    "category": "Vegetables",
+    "secondaryCategories": [],
+    "price": 60,
+    "mrp": 60,
+    "unit": "500 g",
+    "packSize": 500,
+    "packUnit": "g",
+    "nutritionBasis": "per 100 g",
+    "basisAmount": 100,
+    "packGrams": 500,
+    "description": "Thick-walled green bell peppers with a mild sweetness. Ideal for wraps, stir-fries and egg breakfasts.",
+    "rating": 4.1,
+    "reviewCount": 205,
+    "availability": "In Stock",
+    "stockCount": 88,
+    "calories": 20,
+    "protein": 0.9,
+    "carbs": 4.6,
+    "fat": 0.2,
+    "fiber": 1.7,
+    "dietType": "Vegetarian",
+    "tags": [
+      "vitamin c",
+      "stir fry",
+      "low calorie",
+      "fresh"
+    ],
+    "keywords": [
+      "capsicum",
+      "bell pepper",
+      "shimla mirch",
+      "stir fry",
+      "wrap"
+    ],
+    "healthyBenefits": [
+      "High in vitamin C",
+      "Antioxidant rich",
+      "Low in calories"
+    ],
+    "relatedCodes": [
+      "onion",
+      "broccoli",
+      "paneer"
+    ],
+    "alternativeCodes": [
+      "broccoli"
+    ],
+    "isNew": false,
+    "isBestseller": false,
+    "createdAt": "2026-01-15T00:00:00.000Z"
+  },
+  {
+    "code": "sweet-potato",
+    "name": "Sweet Potato",
+    "category": "Vegetables",
+    "secondaryCategories": [],
+    "price": 70,
+    "mrp": 70,
+    "unit": "1 kg",
+    "packSize": 1000,
+    "packUnit": "g",
+    "nutritionBasis": "per 100 g",
+    "basisAmount": 100,
+    "packGrams": 1000,
+    "description": "Naturally sweet orange-fleshed tubers. Roast, boil or air-fry for a slow-release carbohydrate side dish.",
+    "rating": 4.4,
+    "reviewCount": 176,
+    "availability": "In Stock",
+    "stockCount": 105,
+    "calories": 86,
+    "protein": 1.6,
+    "carbs": 20.1,
+    "fat": 0.1,
+    "fiber": 3,
+    "dietType": "Vegetarian",
+    "tags": [
+      "complex carbs",
+      "vitamin a",
+      "fitness",
+      "fresh"
+    ],
+    "keywords": [
+      "sweet potato",
+      "shakarkandi",
+      "roast",
+      "carb",
+      "fitness"
+    ],
+    "healthyBenefits": [
+      "Slow-release energy",
+      "High in beta-carotene",
+      "Fibre rich"
+    ],
+    "relatedCodes": [
+      "potato",
+      "carrot",
+      "oats"
+    ],
+    "alternativeCodes": [
+      "potato"
+    ],
+    "isNew": false,
+    "isBestseller": false,
+    "createdAt": "2026-01-16T00:00:00.000Z"
+  },
+  {
+    "code": "beetroot",
+    "name": "Beetroot",
+    "category": "Vegetables",
+    "secondaryCategories": [],
+    "price": 40,
+    "mrp": 40,
+    "unit": "500 g",
+    "packSize": 500,
+    "packUnit": "g",
+    "nutritionBasis": "per 100 g",
+    "basisAmount": 100,
+    "packGrams": 500,
+    "description": "Earthy-sweet beetroot with deep purple flesh. Excellent for pre-workout juices, salads and detox bowls.",
+    "rating": 4.2,
+    "reviewCount": 149,
+    "availability": "In Stock",
+    "stockCount": 32,
+    "calories": 43,
+    "protein": 1.6,
+    "carbs": 9.6,
+    "fat": 0.2,
+    "fiber": 2.8,
+    "dietType": "Vegetarian",
+    "tags": [
+      "nitrates",
+      "iron",
+      "pre workout",
+      "fresh"
+    ],
+    "keywords": [
+      "beetroot",
+      "chukandar",
+      "juice",
+      "salad",
+      "iron"
+    ],
+    "healthyBenefits": [
+      "Nitrates support blood flow",
+      "Contains iron and folate",
+      "Supports stamina"
+    ],
+    "relatedCodes": [
+      "carrot",
+      "baby-spinach",
+      "orange"
+    ],
+    "alternativeCodes": [
+      "baby-spinach"
+    ],
+    "isNew": false,
+    "isBestseller": false,
+    "createdAt": "2026-01-17T00:00:00.000Z"
+  },
+  {
+    "code": "onion",
+    "name": "Onion",
+    "category": "Vegetables",
+    "secondaryCategories": [],
+    "price": 40,
+    "mrp": 40,
+    "unit": "1 kg",
+    "packSize": 1000,
+    "packUnit": "g",
+    "nutritionBasis": "per 100 g",
+    "basisAmount": 100,
+    "packGrams": 1000,
+    "description": "Firm pungent onions that form the aromatic base of almost every Indian dish.",
+    "rating": 4,
+    "reviewCount": 356,
+    "availability": "In Stock",
+    "stockCount": 49,
+    "calories": 40,
+    "protein": 1.1,
+    "carbs": 9.3,
+    "fat": 0.1,
+    "fiber": 1.7,
+    "dietType": "Vegetarian",
+    "tags": [
+      "everyday",
+      "base ingredient",
+      "fresh"
+    ],
+    "keywords": [
+      "onion",
+      "pyaz",
+      "curry",
+      "base",
+      "gravy"
+    ],
+    "healthyBenefits": [
+      "Contains quercetin antioxidants",
+      "Supports immunity",
+      "Low in calories"
+    ],
+    "relatedCodes": [
+      "tomato",
+      "green-chilli",
+      "potato"
+    ],
+    "alternativeCodes": [],
+    "isNew": false,
+    "isBestseller": false,
+    "createdAt": "2026-01-18T00:00:00.000Z"
+  },
+  {
+    "code": "potato",
+    "name": "Potato",
+    "category": "Vegetables",
+    "secondaryCategories": [],
+    "price": 35,
+    "mrp": 35,
+    "unit": "1 kg",
+    "packSize": 1000,
+    "packUnit": "g",
+    "nutritionBasis": "per 100 g",
+    "basisAmount": 100,
+    "packGrams": 1000,
+    "description": "All-purpose potatoes with smooth skin. Boil, roast or mash them for everyday meals.",
+    "rating": 3.9,
+    "reviewCount": 311,
+    "availability": "In Stock",
+    "stockCount": 66,
+    "calories": 77,
+    "protein": 2,
+    "carbs": 17.5,
+    "fat": 0.1,
+    "fiber": 2.2,
+    "dietType": "Vegetarian",
+    "tags": [
+      "everyday",
+      "staple",
+      "fresh"
+    ],
+    "keywords": [
+      "potato",
+      "aloo",
+      "staple",
+      "curry",
+      "roast"
+    ],
+    "healthyBenefits": [
+      "Source of potassium",
+      "Provides vitamin B6",
+      "Naturally gluten free"
+    ],
+    "relatedCodes": [
+      "onion",
+      "sweet-potato",
+      "green-chilli"
+    ],
+    "alternativeCodes": [
+      "sweet-potato"
+    ],
+    "isNew": false,
+    "isBestseller": false,
+    "createdAt": "2026-01-19T00:00:00.000Z"
+  },
+  {
+    "code": "farm-fresh-eggs",
+    "name": "Farm Fresh Eggs",
+    "category": "Protein",
+    "secondaryCategories": [],
+    "price": 66,
+    "mrp": 66,
+    "unit": "6 eggs",
+    "packSize": 6,
+    "packUnit": "piece",
+    "nutritionBasis": "per egg (50 g)",
+    "basisAmount": 50,
+    "packGrams": 300,
+    "description": "Farm eggs with firm whites and deep orange yolks. The most complete everyday protein — boiled, scrambled or in omelettes.",
+    "rating": 4.5,
+    "reviewCount": 486,
+    "availability": "In Stock",
+    "stockCount": 83,
+    "calories": 78,
+    "protein": 6.3,
+    "carbs": 0.6,
+    "fat": 5.3,
+    "fiber": 0,
+    "dietType": "Non-Vegetarian",
+    "tags": [
+      "high protein",
+      "complete protein",
+      "breakfast",
+      "fitness"
+    ],
+    "keywords": [
+      "eggs",
+      "anda",
+      "protein",
+      "omelette",
+      "breakfast",
+      "boiled egg"
+    ],
+    "healthyBenefits": [
+      "Complete amino acid profile",
+      "Rich in choline and B12",
+      "Supports muscle repair"
+    ],
+    "relatedCodes": [
+      "whole-wheat-bread",
+      "baby-spinach",
+      "tomato"
+    ],
+    "alternativeCodes": [
+      "tofu"
+    ],
+    "isNew": false,
+    "isBestseller": true,
+    "createdAt": "2026-01-20T00:00:00.000Z"
+  },
+  {
+    "code": "paneer",
+    "name": "Fresh Paneer",
+    "category": "Protein",
+    "secondaryCategories": [],
+    "price": 95,
+    "mrp": 95,
+    "unit": "200 g",
+    "packSize": 200,
+    "packUnit": "g",
+    "nutritionBasis": "per 100 g",
+    "basisAmount": 100,
+    "packGrams": 200,
+    "description": "Soft, milky paneer set fresh daily. Grills, pan-fries and holds its shape in curries while delivering serious protein.",
+    "rating": 4.4,
+    "reviewCount": 372,
+    "availability": "In Stock",
+    "stockCount": 100,
+    "calories": 296,
+    "protein": 20,
+    "carbs": 1.2,
+    "fat": 23.3,
+    "fiber": 0,
+    "dietType": "Vegetarian",
+    "tags": [
+      "high protein",
+      "vegetarian protein",
+      "calcium"
+    ],
+    "keywords": [
+      "paneer",
+      "cottage cheese",
+      "protein",
+      "curry",
+      "grill"
+    ],
+    "healthyBenefits": [
+      "High quality vegetarian protein",
+      "Rich in calcium",
+      "Keeps you full longer"
+    ],
+    "relatedCodes": [
+      "capsicum",
+      "onion",
+      "baby-spinach"
+    ],
+    "alternativeCodes": [
+      "low-fat-paneer",
+      "tofu"
+    ],
+    "isNew": false,
+    "isBestseller": true,
+    "createdAt": "2026-01-21T00:00:00.000Z"
+  },
+  {
+    "code": "low-fat-paneer",
+    "name": "Low Fat Paneer",
+    "category": "Protein",
+    "secondaryCategories": [
+      "Fitness Foods"
+    ],
+    "price": 110,
+    "mrp": 130,
+    "unit": "200 g",
+    "packSize": 200,
+    "packUnit": "g",
+    "nutritionBasis": "per 100 g",
+    "basisAmount": 100,
+    "packGrams": 200,
+    "description": "Made from skimmed milk, so you get the same protein with roughly half the fat. Ideal for weight-loss and muscle-gain plans.",
+    "rating": 4.3,
+    "reviewCount": 214,
+    "availability": "In Stock",
+    "stockCount": 117,
+    "calories": 210,
+    "protein": 24,
+    "carbs": 3.4,
+    "fat": 11.2,
+    "fiber": 0,
+    "dietType": "Vegetarian",
+    "tags": [
+      "high protein",
+      "low fat",
+      "weight loss",
+      "fitness"
+    ],
+    "keywords": [
+      "low fat paneer",
+      "protein",
+      "weight loss",
+      "fitness",
+      "diet"
+    ],
+    "healthyBenefits": [
+      "24 g protein per 100 g",
+      "Half the fat of regular paneer",
+      "Great for lean muscle goals"
+    ],
+    "relatedCodes": [
+      "paneer",
+      "tofu",
+      "broccoli"
+    ],
+    "alternativeCodes": [
+      "paneer"
+    ],
+    "isNew": false,
+    "isBestseller": false,
+    "createdAt": "2026-01-22T00:00:00.000Z"
+  },
+  {
+    "code": "tofu",
+    "name": "Firm Tofu",
+    "category": "Protein",
+    "secondaryCategories": [
+      "Fitness Foods"
+    ],
+    "price": 90,
+    "mrp": 90,
+    "unit": "200 g",
+    "packSize": 200,
+    "packUnit": "g",
+    "nutritionBasis": "per 100 g",
+    "basisAmount": 100,
+    "packGrams": 200,
+    "description": "Pressed firm tofu with a clean, neutral taste that soaks up any marinade. A plant-first protein for stir-fries and bowls.",
+    "rating": 4.2,
+    "reviewCount": 168,
+    "availability": "In Stock",
+    "stockCount": 44,
+    "calories": 144,
+    "protein": 15.8,
+    "carbs": 2.8,
+    "fat": 8.7,
+    "fiber": 1.2,
+    "dietType": "Vegetarian",
+    "tags": [
+      "plant protein",
+      "high protein",
+      "vegan",
+      "fitness"
+    ],
+    "keywords": [
+      "tofu",
+      "soy",
+      "plant protein",
+      "vegan",
+      "stir fry"
+    ],
+    "healthyBenefits": [
+      "Complete plant protein",
+      "Low in saturated fat",
+      "Supports heart health"
+    ],
+    "relatedCodes": [
+      "soy-chunks",
+      "broccoli",
+      "capsicum"
+    ],
+    "alternativeCodes": [
+      "paneer"
+    ],
+    "isNew": false,
+    "isBestseller": false,
+    "createdAt": "2026-01-23T00:00:00.000Z"
+  },
+  {
+    "code": "greek-yogurt",
+    "name": "Greek Yogurt (Plain)",
+    "category": "Protein",
+    "secondaryCategories": [
+      "Dairy",
+      "Fitness Foods"
+    ],
+    "price": 180,
+    "mrp": 180,
+    "unit": "400 g",
+    "packSize": 400,
+    "packUnit": "g",
+    "nutritionBasis": "per 100 g",
+    "basisAmount": 100,
+    "packGrams": 400,
+    "description": "Thick strained yogurt with double the protein of regular curd. Perfect for breakfast bowls, dips and post-workout snacks.",
+    "rating": 4.6,
+    "reviewCount": 298,
+    "availability": "In Stock",
+    "stockCount": 61,
+    "calories": 97,
+    "protein": 9,
+    "carbs": 3.6,
+    "fat": 5,
+    "fiber": 0,
+    "dietType": "Vegetarian",
+    "tags": [
+      "high protein",
+      "probiotics",
+      "breakfast",
+      "fitness"
+    ],
+    "keywords": [
+      "greek yogurt",
+      "curd",
+      "protein",
+      "breakfast",
+      "probiotic"
+    ],
+    "healthyBenefits": [
+      "Double the protein of curd",
+      "Live probiotic cultures",
+      "Supports gut health"
+    ],
+    "relatedCodes": [
+      "kiwi",
+      "banana",
+      "high-protein-granola"
+    ],
+    "alternativeCodes": [
+      "curd"
+    ],
+    "isNew": false,
+    "isBestseller": true,
+    "createdAt": "2026-01-24T00:00:00.000Z"
+  },
+  {
+    "code": "soy-chunks",
+    "name": "Soy Chunks (Soya Wadi)",
+    "category": "Protein",
+    "secondaryCategories": [
+      "Fitness Foods"
+    ],
+    "price": 60,
+    "mrp": 60,
+    "unit": "200 g",
+    "packSize": 200,
+    "packUnit": "g",
+    "nutritionBasis": "per 100 g (dry)",
+    "basisAmount": 100,
+    "packGrams": 200,
+    "description": "Textured soy protein that takes on any masala you cook it in. 52 g of protein per 100 g makes it the most economical protein per rupee.",
+    "rating": 4.1,
+    "reviewCount": 241,
+    "availability": "In Stock",
+    "stockCount": 78,
+    "calories": 345,
+    "protein": 52,
+    "carbs": 33,
+    "fat": 0.5,
+    "fiber": 13,
+    "dietType": "Vegetarian",
+    "tags": [
+      "high protein",
+      "budget protein",
+      "vegan",
+      "fitness"
+    ],
+    "keywords": [
+      "soy chunks",
+      "soya",
+      "protein",
+      "budget",
+      "curry",
+      "vegan"
+    ],
+    "healthyBenefits": [
+      "52 g protein per 100 g",
+      "Very low in fat",
+      "Excellent fibre source"
+    ],
+    "relatedCodes": [
+      "tofu",
+      "onion",
+      "tomato"
+    ],
+    "alternativeCodes": [
+      "paneer"
+    ],
+    "isNew": false,
+    "isBestseller": false,
+    "createdAt": "2026-01-25T00:00:00.000Z"
+  },
+  {
+    "code": "chickpeas",
+    "name": "Kabuli Chickpeas",
+    "category": "Protein",
+    "secondaryCategories": [],
+    "price": 85,
+    "mrp": 85,
+    "unit": "500 g",
+    "packSize": 500,
+    "packUnit": "g",
+    "nutritionBasis": "per 100 g (dry)",
+    "basisAmount": 100,
+    "packGrams": 500,
+    "description": "Plump chickpeas for chana masala, salads and hummus. A fibre-rich plant protein that also counts as your daily pulse.",
+    "rating": 4.3,
+    "reviewCount": 264,
+    "availability": "In Stock",
+    "stockCount": 95,
+    "calories": 364,
+    "protein": 19,
+    "carbs": 61,
+    "fat": 6,
+    "fiber": 17,
+    "dietType": "Vegetarian",
+    "tags": [
+      "plant protein",
+      "high fiber",
+      "pulses"
+    ],
+    "keywords": [
+      "chickpeas",
+      "chana",
+      "kabuli chana",
+      "hummus",
+      "protein"
+    ],
+    "healthyBenefits": [
+      "Plant protein plus 17 g fibre",
+      "Low glycemic index",
+      "Sustained energy"
+    ],
+    "relatedCodes": [
+      "roasted-chickpeas",
+      "onion",
+      "tomato"
+    ],
+    "alternativeCodes": [
+      "rajma"
+    ],
+    "isNew": false,
+    "isBestseller": false,
+    "createdAt": "2026-01-26T00:00:00.000Z"
+  },
+  {
+    "code": "rajma",
+    "name": "Rajma (Kidney Beans)",
+    "category": "Protein",
+    "secondaryCategories": [],
+    "price": 110,
+    "mrp": 110,
+    "unit": "500 g",
+    "packSize": 500,
+    "packUnit": "g",
+    "nutritionBasis": "per 100 g (dry)",
+    "basisAmount": 100,
+    "packGrams": 500,
+    "description": "Deep red kidney beans that cook into a creamy rajma masala. Naturally rich in protein, iron and fibre.",
+    "rating": 4.4,
+    "reviewCount": 312,
+    "availability": "In Stock",
+    "stockCount": 112,
+    "calories": 333,
+    "protein": 24,
+    "carbs": 60,
+    "fat": 0.8,
+    "fiber": 25,
+    "dietType": "Vegetarian",
+    "tags": [
+      "plant protein",
+      "high fiber",
+      "iron",
+      "pulses"
+    ],
+    "keywords": [
+      "rajma",
+      "kidney beans",
+      "protein",
+      "curry",
+      "fiber"
+    ],
+    "healthyBenefits": [
+      "24 g plant protein per 100 g",
+      "Very high in fibre",
+      "Good source of iron"
+    ],
+    "relatedCodes": [
+      "brown-rice",
+      "onion",
+      "tomato"
+    ],
+    "alternativeCodes": [
+      "chickpeas"
+    ],
+    "isNew": false,
+    "isBestseller": false,
+    "createdAt": "2026-01-27T00:00:00.000Z"
+  },
+  {
+    "code": "moong-dal",
+    "name": "Moong Dal (Split)",
+    "category": "Protein",
+    "secondaryCategories": [],
+    "price": 95,
+    "mrp": 95,
+    "unit": "500 g",
+    "packSize": 500,
+    "packUnit": "g",
+    "nutritionBasis": "per 100 g (dry)",
+    "basisAmount": 100,
+    "packGrams": 500,
+    "description": "Bright yellow split moong that cooks in minutes and is famously easy on digestion. The everyday dal for khichdi and soups.",
+    "rating": 4.5,
+    "reviewCount": 356,
+    "availability": "In Stock",
+    "stockCount": 39,
+    "calories": 347,
+    "protein": 24,
+    "carbs": 63,
+    "fat": 1.2,
+    "fiber": 16,
+    "dietType": "Vegetarian",
+    "tags": [
+      "easy digestion",
+      "plant protein",
+      "pulses",
+      "everyday"
+    ],
+    "keywords": [
+      "moong dal",
+      "dal",
+      "khichdi",
+      "protein",
+      "light"
+    ],
+    "healthyBenefits": [
+      "Very easy to digest",
+      "Low in fat",
+      "Good plant protein"
+    ],
+    "relatedCodes": [
+      "brown-rice",
+      "millet",
+      "green-chilli"
+    ],
+    "alternativeCodes": [
+      "mixed-dal"
+    ],
+    "isNew": false,
+    "isBestseller": false,
+    "createdAt": "2026-01-28T00:00:00.000Z"
+  },
+  {
+    "code": "mixed-dal",
+    "name": "Mixed Dal (Panchmel)",
+    "category": "Protein",
+    "secondaryCategories": [],
+    "price": 120,
+    "mrp": 120,
+    "unit": "500 g",
+    "packSize": 500,
+    "packUnit": "g",
+    "nutritionBasis": "per 100 g (dry)",
+    "basisAmount": 100,
+    "packGrams": 500,
+    "description": "Five dals blended for a fuller amino acid profile and a richer, thicker dal. One pack, five proteins.",
+    "rating": 4.3,
+    "reviewCount": 187,
+    "availability": "In Stock",
+    "stockCount": 56,
+    "calories": 341,
+    "protein": 23,
+    "carbs": 60,
+    "fat": 1.5,
+    "fiber": 17,
+    "dietType": "Vegetarian",
+    "tags": [
+      "plant protein",
+      "high fiber",
+      "pulses"
+    ],
+    "keywords": [
+      "mixed dal",
+      "panchmel",
+      "dal",
+      "protein",
+      "fiber"
+    ],
+    "healthyBenefits": [
+      "Blended amino acid profile",
+      "High fibre",
+      "Heart friendly"
+    ],
+    "relatedCodes": [
+      "moong-dal",
+      "brown-rice",
+      "onion"
+    ],
+    "alternativeCodes": [
+      "moong-dal"
+    ],
+    "isNew": false,
+    "isBestseller": false,
+    "createdAt": "2026-01-29T00:00:00.000Z"
+  },
+  {
+    "code": "sprouts",
+    "name": "Mixed Sprouts",
+    "category": "Protein",
+    "secondaryCategories": [],
+    "price": 50,
+    "mrp": 50,
+    "unit": "250 g",
+    "packSize": 250,
+    "packUnit": "g",
+    "nutritionBasis": "per 100 g",
+    "basisAmount": 100,
+    "packGrams": 250,
+    "description": "Live moong and moth sprouts ready to eat. Low-calorie, protein-rich and the fastest way to add crunch to a salad.",
+    "rating": 4.2,
+    "reviewCount": 203,
+    "availability": "In Stock",
+    "stockCount": 73,
+    "calories": 97,
+    "protein": 6.9,
+    "carbs": 17,
+    "fat": 0.6,
+    "fiber": 4.5,
+    "dietType": "Vegetarian",
+    "tags": [
+      "live food",
+      "low calorie",
+      "plant protein",
+      "salad"
+    ],
+    "keywords": [
+      "sprouts",
+      "ankurit",
+      "salad",
+      "protein",
+      "healthy snack"
+    ],
+    "healthyBenefits": [
+      "Enzyme rich living food",
+      "Low calorie protein",
+      "Supports digestion"
+    ],
+    "relatedCodes": [
+      "cucumber",
+      "tomato",
+      "onion"
+    ],
+    "alternativeCodes": [
+      "chickpeas"
+    ],
+    "isNew": false,
+    "isBestseller": false,
+    "createdAt": "2026-01-30T00:00:00.000Z"
+  },
+  {
+    "code": "brown-rice",
+    "name": "Brown Rice",
+    "category": "Grains",
+    "secondaryCategories": [],
+    "price": 110,
+    "mrp": 110,
+    "unit": "1 kg",
+    "packSize": 1000,
+    "packUnit": "g",
+    "nutritionBasis": "per 100 g (raw)",
+    "basisAmount": 100,
+    "packGrams": 1000,
+    "description": "Unpolished wholegrain rice that keeps its bran layer. Slower to digest than white rice, which means steadier energy.",
+    "rating": 4.2,
+    "reviewCount": 289,
+    "availability": "In Stock",
+    "stockCount": 90,
+    "calories": 362,
+    "protein": 7.9,
+    "carbs": 76,
+    "fat": 2.9,
+    "fiber": 3.5,
+    "dietType": "Vegetarian",
+    "tags": [
+      "wholegrain",
+      "high fiber",
+      "everyday",
+      "diabetes friendly"
+    ],
+    "keywords": [
+      "brown rice",
+      "rice",
+      "wholegrain",
+      "fiber",
+      "staple"
+    ],
+    "healthyBenefits": [
+      "Wholegrain fibre kept intact",
+      "Low glycemic index",
+      "Supports steady energy"
+    ],
+    "relatedCodes": [
+      "moong-dal",
+      "rajma",
+      "millet"
+    ],
+    "alternativeCodes": [
+      "quinoa"
+    ],
+    "isNew": false,
+    "isBestseller": true,
+    "createdAt": "2026-01-31T00:00:00.000Z"
+  },
+  {
+    "code": "quinoa",
+    "name": "Quinoa",
+    "category": "Grains",
+    "secondaryCategories": [],
+    "price": 210,
+    "mrp": 240,
+    "unit": "500 g",
+    "packSize": 500,
+    "packUnit": "g",
+    "nutritionBasis": "per 100 g (raw)",
+    "basisAmount": 100,
+    "packGrams": 500,
+    "description": "Fluffy ancient grain that cooks in 15 minutes. One of the few plant foods with a complete amino acid profile.",
+    "rating": 4.4,
+    "reviewCount": 176,
+    "availability": "In Stock",
+    "stockCount": 107,
+    "calories": 368,
+    "protein": 14,
+    "carbs": 64,
+    "fat": 6,
+    "fiber": 7,
+    "dietType": "Vegetarian",
+    "tags": [
+      "complete protein",
+      "wholegrain",
+      "fitness",
+      "gluten free"
+    ],
+    "keywords": [
+      "quinoa",
+      "grain",
+      "protein",
+      "salad",
+      "gluten free"
+    ],
+    "healthyBenefits": [
+      "Complete plant protein",
+      "Naturally gluten free",
+      "High in fibre"
+    ],
+    "relatedCodes": [
+      "brown-rice",
+      "millet",
+      "broccoli"
+    ],
+    "alternativeCodes": [
+      "millet"
+    ],
+    "isNew": false,
+    "isBestseller": false,
+    "createdAt": "2026-02-01T00:00:00.000Z"
+  },
+  {
+    "code": "oats",
+    "name": "Rolled Oats",
+    "category": "Grains",
+    "secondaryCategories": [],
+    "price": 180,
+    "mrp": 180,
+    "unit": "1 kg",
+    "packSize": 1000,
+    "packUnit": "g",
+    "nutritionBasis": "per 100 g (dry)",
+    "basisAmount": 100,
+    "packGrams": 1000,
+    "description": "Whole rolled oats that cook into a creamy bowl in three minutes. The most versatile slow-carb breakfast there is.",
+    "rating": 4.5,
+    "reviewCount": 431,
+    "availability": "In Stock",
+    "stockCount": 34,
+    "calories": 379,
+    "protein": 13,
+    "carbs": 68,
+    "fat": 6.9,
+    "fiber": 10.6,
+    "dietType": "Vegetarian",
+    "tags": [
+      "wholegrain",
+      "high fiber",
+      "breakfast",
+      "heart healthy"
+    ],
+    "keywords": [
+      "oats",
+      "porridge",
+      "breakfast",
+      "fiber",
+      "beta glucan"
+    ],
+    "healthyBenefits": [
+      "Beta-glucan lowers cholesterol",
+      "Very high fibre",
+      "Long lasting fullness"
+    ],
+    "relatedCodes": [
+      "banana",
+      "peanut-butter",
+      "low-fat-milk"
+    ],
+    "alternativeCodes": [
+      "protein-oats",
+      "millet"
+    ],
+    "isNew": false,
+    "isBestseller": true,
+    "createdAt": "2026-02-02T00:00:00.000Z"
+  },
+  {
+    "code": "protein-oats",
+    "name": "Protein Oats",
+    "category": "Grains",
+    "secondaryCategories": [
+      "Fitness Foods"
+    ],
+    "price": 320,
+    "mrp": 360,
+    "unit": "500 g",
+    "packSize": 500,
+    "packUnit": "g",
+    "nutritionBasis": "per 100 g (dry)",
+    "basisAmount": 100,
+    "packGrams": 500,
+    "description": "Rolled oats blended with whey and soy protein so a single bowl carries 24 g of protein. Same three-minute breakfast, more gains.",
+    "rating": 4.4,
+    "reviewCount": 198,
+    "availability": "In Stock",
+    "stockCount": 51,
+    "calories": 396,
+    "protein": 24,
+    "carbs": 58,
+    "fat": 8,
+    "fiber": 11,
+    "dietType": "Vegetarian",
+    "tags": [
+      "high protein",
+      "breakfast",
+      "fitness",
+      "muscle gain"
+    ],
+    "keywords": [
+      "protein oats",
+      "protein",
+      "breakfast",
+      "fitness",
+      "muscle"
+    ],
+    "healthyBenefits": [
+      "24 g protein per 100 g",
+      "High fibre base",
+      "Supports muscle recovery"
+    ],
+    "relatedCodes": [
+      "oats",
+      "greek-yogurt",
+      "banana"
+    ],
+    "alternativeCodes": [
+      "oats"
+    ],
+    "isNew": true,
+    "isBestseller": false,
+    "createdAt": "2026-02-03T00:00:00.000Z"
+  },
+  {
+    "code": "multigrain-bread",
+    "name": "Multigrain Bread",
+    "category": "Grains",
+    "secondaryCategories": [],
+    "price": 65,
+    "mrp": 65,
+    "unit": "400 g (approx. 12 slices)",
+    "packSize": 400,
+    "packUnit": "g",
+    "nutritionBasis": "per 100 g",
+    "basisAmount": 100,
+    "packGrams": 400,
+    "description": "Baked with wheat, oats, flax and sunflower seeds. More fibre and protein per slice than plain white bread.",
+    "rating": 4.2,
+    "reviewCount": 254,
+    "availability": "In Stock",
+    "stockCount": 68,
+    "calories": 250,
+    "protein": 11,
+    "carbs": 42,
+    "fat": 3.5,
+    "fiber": 5.5,
+    "dietType": "Vegetarian",
+    "tags": [
+      "high fiber",
+      "breakfast",
+      "seeded",
+      "everyday"
+    ],
+    "keywords": [
+      "multigrain bread",
+      "bread",
+      "sandwich",
+      "toast",
+      "seeds"
+    ],
+    "healthyBenefits": [
+      "More fibre than white bread",
+      "Seeded for healthy fats",
+      "Slower energy release"
+    ],
+    "relatedCodes": [
+      "whole-wheat-bread",
+      "peanut-butter",
+      "eggs"
+    ],
+    "alternativeCodes": [
+      "whole-wheat-bread"
+    ],
+    "isNew": false,
+    "isBestseller": false,
+    "createdAt": "2026-02-04T00:00:00.000Z"
+  },
+  {
+    "code": "whole-wheat-bread",
+    "name": "Whole Wheat Bread",
+    "category": "Grains",
+    "secondaryCategories": [],
+    "price": 55,
+    "mrp": 55,
+    "unit": "400 g (approx. 12 slices)",
+    "packSize": 400,
+    "packUnit": "g",
+    "nutritionBasis": "per 100 g",
+    "basisAmount": 100,
+    "packGrams": 400,
+    "description": "Soft 100 percent atta loaf with no refined maida. The classic everyday swap for white bread.",
+    "rating": 4.1,
+    "reviewCount": 367,
+    "availability": "In Stock",
+    "stockCount": 85,
+    "calories": 240,
+    "protein": 9,
+    "carbs": 44,
+    "fat": 3,
+    "fiber": 6,
+    "dietType": "Vegetarian",
+    "tags": [
+      "wholegrain",
+      "high fiber",
+      "breakfast",
+      "everyday"
+    ],
+    "keywords": [
+      "whole wheat bread",
+      "bread",
+      "atta",
+      "toast",
+      "sandwich"
+    ],
+    "healthyBenefits": [
+      "100 percent whole wheat",
+      "No refined flour",
+      "Good fibre source"
+    ],
+    "relatedCodes": [
+      "multigrain-bread",
+      "eggs",
+      "peanut-butter"
+    ],
+    "alternativeCodes": [
+      "multigrain-bread"
+    ],
+    "isNew": false,
+    "isBestseller": false,
+    "createdAt": "2026-02-05T00:00:00.000Z"
+  },
+  {
+    "code": "ragi-flour",
+    "name": "Ragi Flour (Finger Millet)",
+    "category": "Grains",
+    "secondaryCategories": [],
+    "price": 60,
+    "mrp": 60,
+    "unit": "500 g",
+    "packSize": 500,
+    "packUnit": "g",
+    "nutritionBasis": "per 100 g",
+    "basisAmount": 100,
+    "packGrams": 500,
+    "description": "Stone-ground finger millet flour that is naturally rich in calcium and iron. Makes sturdy rotis and healthy porridges.",
+    "rating": 4.3,
+    "reviewCount": 219,
+    "availability": "In Stock",
+    "stockCount": 102,
+    "calories": 336,
+    "protein": 7.3,
+    "carbs": 72,
+    "fat": 1.3,
+    "fiber": 11.5,
+    "dietType": "Vegetarian",
+    "tags": [
+      "calcium",
+      "iron",
+      "millet",
+      "gluten free"
+    ],
+    "keywords": [
+      "ragi",
+      "finger millet",
+      "flour",
+      "calcium",
+      "roti"
+    ],
+    "healthyBenefits": [
+      "Outstanding calcium content",
+      "Rich in iron",
+      "Very high fibre"
+    ],
+    "relatedCodes": [
+      "millet",
+      "oats",
+      "curd"
+    ],
+    "alternativeCodes": [
+      "millet"
+    ],
+    "isNew": false,
+    "isBestseller": false,
+    "createdAt": "2026-02-06T00:00:00.000Z"
+  },
+  {
+    "code": "millet",
+    "name": "Bajra (Pearl Millet)",
+    "category": "Grains",
+    "secondaryCategories": [],
+    "price": 55,
+    "mrp": 55,
+    "unit": "500 g",
+    "packSize": 500,
+    "packUnit": "g",
+    "nutritionBasis": "per 100 g (raw)",
+    "basisAmount": 100,
+    "packGrams": 500,
+    "description": "Nutty pearl millet for rotis, khichdi and porridge. A climate-friendly grain with more iron than most cereals.",
+    "rating": 4.2,
+    "reviewCount": 164,
+    "availability": "In Stock",
+    "stockCount": 119,
+    "calories": 361,
+    "protein": 11,
+    "carbs": 67,
+    "fat": 5,
+    "fiber": 8.5,
+    "dietType": "Vegetarian",
+    "tags": [
+      "millet",
+      "iron",
+      "high fiber",
+      "wholegrain"
+    ],
+    "keywords": [
+      "bajra",
+      "millet",
+      "pearl millet",
+      "roti",
+      "grain"
+    ],
+    "healthyBenefits": [
+      "11 g protein per 100 g",
+      "High in iron and magnesium",
+      "Gluten free grain"
+    ],
+    "relatedCodes": [
+      "ragi-flour",
+      "brown-rice",
+      "moong-dal"
+    ],
+    "alternativeCodes": [
+      "quinoa"
+    ],
+    "isNew": false,
+    "isBestseller": false,
+    "createdAt": "2026-02-07T00:00:00.000Z"
+  },
+  {
+    "code": "high-protein-granola",
+    "name": "High Protein Granola",
+    "category": "Grains",
+    "secondaryCategories": [
+      "Fitness Foods"
+    ],
+    "price": 390,
+    "mrp": 430,
+    "unit": "400 g",
+    "packSize": 400,
+    "packUnit": "g",
+    "nutritionBasis": "per 100 g",
+    "basisAmount": 100,
+    "packGrams": 400,
+    "description": "Oven-baked oat clusters with almonds, seeds and whey protein. Crunchy over yogurt or milk without loading up on sugar.",
+    "rating": 4.4,
+    "reviewCount": 211,
+    "availability": "In Stock",
+    "stockCount": 46,
+    "calories": 420,
+    "protein": 20,
+    "carbs": 55,
+    "fat": 12,
+    "fiber": 7,
+    "dietType": "Vegetarian",
+    "tags": [
+      "high protein",
+      "breakfast",
+      "fitness",
+      "seeded"
+    ],
+    "keywords": [
+      "granola",
+      "protein granola",
+      "breakfast",
+      "cereal",
+      "yogurt"
+    ],
+    "healthyBenefits": [
+      "20 g protein per 100 g",
+      "Made with whole oats",
+      "Lower sugar than cereal"
+    ],
+    "relatedCodes": [
+      "greek-yogurt",
+      "low-fat-milk",
+      "almonds"
+    ],
+    "alternativeCodes": [
+      "oats"
+    ],
+    "isNew": true,
+    "isBestseller": false,
+    "createdAt": "2026-02-08T00:00:00.000Z"
+  },
+  {
+    "code": "roasted-makhana",
+    "name": "Roasted Makhana",
+    "category": "Healthy Snacks",
+    "secondaryCategories": [],
+    "price": 150,
+    "mrp": 150,
+    "unit": "100 g",
+    "packSize": 100,
+    "packUnit": "g",
+    "nutritionBasis": "per 100 g",
+    "basisAmount": 100,
+    "packGrams": 100,
+    "description": "Light, crisp fox nuts roasted in a touch of olive oil and rock salt. The satisfying crunch of chips at a fraction of the fat.",
+    "rating": 4.5,
+    "reviewCount": 312,
+    "availability": "In Stock",
+    "stockCount": 63,
+    "calories": 347,
+    "protein": 9.7,
+    "carbs": 76,
+    "fat": 0.1,
+    "fiber": 7.3,
+    "dietType": "Vegetarian",
+    "tags": [
+      "low fat",
+      "healthy snack",
+      "high fiber",
+      "gluten free"
+    ],
+    "keywords": [
+      "makhana",
+      "fox nuts",
+      "chips",
+      "snack",
+      "roasted",
+      "low fat"
+    ],
+    "healthyBenefits": [
+      "Almost no fat",
+      "High in fibre",
+      "Better than fried chips"
+    ],
+    "relatedCodes": [
+      "protein-chips",
+      "baked-chips",
+      "almonds"
+    ],
+    "alternativeCodes": [
+      "protein-chips"
+    ],
+    "isNew": false,
+    "isBestseller": true,
+    "createdAt": "2026-02-09T00:00:00.000Z"
+  },
+  {
+    "code": "almonds",
+    "name": "California Almonds",
+    "category": "Healthy Snacks",
+    "secondaryCategories": [],
+    "price": 320,
+    "mrp": 380,
+    "unit": "250 g",
+    "packSize": 250,
+    "packUnit": "g",
+    "nutritionBasis": "per 100 g",
+    "basisAmount": 100,
+    "packGrams": 250,
+    "description": "Hand-picked whole almonds with a clean crunch. A handful supplies protein, vitamin E and healthy fats in one hit.",
+    "rating": 4.6,
+    "reviewCount": 428,
+    "availability": "In Stock",
+    "stockCount": 80,
+    "calories": 579,
+    "protein": 21,
+    "carbs": 22,
+    "fat": 50,
+    "fiber": 12.5,
+    "dietType": "Vegetarian",
+    "tags": [
+      "healthy fats",
+      "vitamin e",
+      "protein snack",
+      "fitness"
+    ],
+    "keywords": [
+      "almonds",
+      "badam",
+      "nuts",
+      "snack",
+      "vitamin e"
+    ],
+    "healthyBenefits": [
+      "21 g protein per 100 g",
+      "Rich in vitamin E",
+      "Supports heart health"
+    ],
+    "relatedCodes": [
+      "walnuts",
+      "trail-mix",
+      "high-protein-granola"
+    ],
+    "alternativeCodes": [
+      "walnuts"
+    ],
+    "isNew": false,
+    "isBestseller": true,
+    "createdAt": "2026-02-10T00:00:00.000Z"
+  },
+  {
+    "code": "walnuts",
+    "name": "Walnut Kernels",
+    "category": "Healthy Snacks",
+    "secondaryCategories": [],
+    "price": 380,
+    "mrp": 380,
+    "unit": "250 g",
+    "packSize": 250,
+    "packUnit": "g",
+    "nutritionBasis": "per 100 g",
+    "basisAmount": 100,
+    "packGrams": 250,
+    "description": "Light-halves walnut kernels with a mild, creamy bite. The best nut source of plant omega-3.",
+    "rating": 4.5,
+    "reviewCount": 246,
+    "availability": "In Stock",
+    "stockCount": 97,
+    "calories": 654,
+    "protein": 15,
+    "carbs": 14,
+    "fat": 65,
+    "fiber": 6.7,
+    "dietType": "Vegetarian",
+    "tags": [
+      "omega 3",
+      "brain health",
+      "healthy fats"
+    ],
+    "keywords": [
+      "walnuts",
+      "akhrot",
+      "omega 3",
+      "nuts",
+      "brain"
+    ],
+    "healthyBenefits": [
+      "Richest nut source of omega-3",
+      "Supports brain health",
+      "Anti-inflammatory fats"
+    ],
+    "relatedCodes": [
+      "almonds",
+      "hass-avocado",
+      "oats"
+    ],
+    "alternativeCodes": [
+      "almonds"
+    ],
+    "isNew": false,
+    "isBestseller": false,
+    "createdAt": "2026-02-11T00:00:00.000Z"
+  },
+  {
+    "code": "peanut-butter",
+    "name": "Creamy Peanut Butter",
+    "category": "Healthy Snacks",
+    "secondaryCategories": [],
+    "price": 280,
+    "mrp": 280,
+    "unit": "340 g",
+    "packSize": 340,
+    "packUnit": "g",
+    "nutritionBasis": "per 100 g",
+    "basisAmount": 100,
+    "packGrams": 340,
+    "description": "Slow-roasted peanuts ground to a smooth, spreadable butter with no added hydrogenated oil.",
+    "rating": 4.4,
+    "reviewCount": 389,
+    "availability": "In Stock",
+    "stockCount": 114,
+    "calories": 588,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 50,
+    "fiber": 6,
+    "dietType": "Vegetarian",
+    "tags": [
+      "protein spread",
+      "healthy fats",
+      "breakfast"
+    ],
+    "keywords": [
+      "peanut butter",
+      "peanut",
+      "spread",
+      "toast",
+      "protein"
+    ],
+    "healthyBenefits": [
+      "25 g protein per 100 g",
+      "No hydrogenated oil",
+      "Healthy unsaturated fats"
+    ],
+    "relatedCodes": [
+      "high-protein-peanut-butter",
+      "whole-wheat-bread",
+      "banana"
+    ],
+    "alternativeCodes": [
+      "high-protein-peanut-butter"
+    ],
+    "isNew": false,
+    "isBestseller": false,
+    "createdAt": "2026-02-12T00:00:00.000Z"
+  },
+  {
+    "code": "high-protein-peanut-butter",
+    "name": "High Protein Peanut Butter",
+    "category": "Healthy Snacks",
+    "secondaryCategories": [
+      "Fitness Foods"
+    ],
+    "price": 420,
+    "mrp": 470,
+    "unit": "340 g",
+    "packSize": 340,
+    "packUnit": "g",
+    "nutritionBasis": "per 100 g",
+    "basisAmount": 100,
+    "packGrams": 340,
+    "description": "Peanut butter fortified with whey and roasted peanuts to reach 33 g protein per 100 g. Thick, spoonable and ideal post-workout.",
+    "rating": 4.5,
+    "reviewCount": 274,
+    "availability": "In Stock",
+    "stockCount": 41,
+    "calories": 610,
+    "protein": 33,
+    "carbs": 14,
+    "fat": 48,
+    "fiber": 7,
+    "dietType": "Vegetarian",
+    "tags": [
+      "high protein",
+      "fitness",
+      "muscle gain",
+      "breakfast"
+    ],
+    "keywords": [
+      "high protein peanut butter",
+      "protein",
+      "peanut butter",
+      "fitness",
+      "muscle"
+    ],
+    "healthyBenefits": [
+      "33 g protein per 100 g",
+      "Lower carbs than regular spread",
+      "Supports muscle gain"
+    ],
+    "relatedCodes": [
+      "peanut-butter",
+      "protein-oats",
+      "whole-wheat-bread"
+    ],
+    "alternativeCodes": [
+      "peanut-butter"
+    ],
+    "isNew": true,
+    "isBestseller": false,
+    "createdAt": "2026-02-13T00:00:00.000Z"
+  },
+  {
+    "code": "trail-mix",
+    "name": "Trail Mix",
+    "category": "Healthy Snacks",
+    "secondaryCategories": [],
+    "price": 260,
+    "mrp": 260,
+    "unit": "200 g",
+    "packSize": 200,
+    "packUnit": "g",
+    "nutritionBasis": "per 100 g",
+    "basisAmount": 100,
+    "packGrams": 200,
+    "description": "Almonds, walnuts, pumpkin seeds, raisins and cranberries in one balanced handful. Built for hikes, desk drawers and gym bags.",
+    "rating": 4.3,
+    "reviewCount": 192,
+    "availability": "In Stock",
+    "stockCount": 58,
+    "calories": 480,
+    "protein": 16,
+    "carbs": 45,
+    "fat": 28,
+    "fiber": 7,
+    "dietType": "Vegetarian",
+    "tags": [
+      "energy",
+      "healthy fats",
+      "travel snack"
+    ],
+    "keywords": [
+      "trail mix",
+      "nuts",
+      "seeds",
+      "snack",
+      "dry fruits"
+    ],
+    "healthyBenefits": [
+      "Balanced fat, protein and carbs",
+      "Naturally sweetened with fruit",
+      "Portable energy"
+    ],
+    "relatedCodes": [
+      "almonds",
+      "walnuts",
+      "dark-chocolate"
+    ],
+    "alternativeCodes": [
+      "almonds"
+    ],
+    "isNew": false,
+    "isBestseller": false,
+    "createdAt": "2026-02-14T00:00:00.000Z"
+  },
+  {
+    "code": "roasted-chickpeas",
+    "name": "Roasted Chickpeas",
+    "category": "Healthy Snacks",
+    "secondaryCategories": [],
+    "price": 90,
+    "mrp": 90,
+    "unit": "150 g",
+    "packSize": 150,
+    "packUnit": "g",
+    "nutritionBasis": "per 100 g",
+    "basisAmount": 100,
+    "packGrams": 150,
+    "description": "Crunchy masala-roasted chickpeas that deliver 19 g of plant protein per 100 g. A savoury snack that actually fills you up.",
+    "rating": 4.2,
+    "reviewCount": 218,
+    "availability": "In Stock",
+    "stockCount": 75,
+    "calories": 380,
+    "protein": 19,
+    "carbs": 58,
+    "fat": 6,
+    "fiber": 12,
+    "dietType": "Vegetarian",
+    "tags": [
+      "plant protein",
+      "high fiber",
+      "healthy snack"
+    ],
+    "keywords": [
+      "roasted chickpeas",
+      "chana",
+      "chips",
+      "snack",
+      "protein"
+    ],
+    "healthyBenefits": [
+      "19 g plant protein",
+      "High in fibre",
+      "Baked not fried"
+    ],
+    "relatedCodes": [
+      "chickpeas",
+      "roasted-makhana",
+      "sprouts"
+    ],
+    "alternativeCodes": [
+      "roasted-makhana"
+    ],
+    "isNew": false,
+    "isBestseller": false,
+    "createdAt": "2026-02-15T00:00:00.000Z"
+  },
+  {
+    "code": "dark-chocolate",
+    "name": "Dark Chocolate 70 Percent",
+    "category": "Healthy Snacks",
+    "secondaryCategories": [],
+    "price": 220,
+    "mrp": 220,
+    "unit": "100 g",
+    "packSize": 100,
+    "packUnit": "g",
+    "nutritionBasis": "per 100 g",
+    "basisAmount": 100,
+    "packGrams": 100,
+    "description": "Intense 70 percent cocoa dark chocolate with a clean snap. Real cocoa solids, far less sugar than milk chocolate.",
+    "rating": 4.6,
+    "reviewCount": 341,
+    "availability": "Low Stock",
+    "stockCount": 8,
+    "calories": 598,
+    "protein": 7.8,
+    "carbs": 45,
+    "fat": 43,
+    "fiber": 11,
+    "dietType": "Vegetarian",
+    "tags": [
+      "antioxidants",
+      "less sugar",
+      "indulgence"
+    ],
+    "keywords": [
+      "dark chocolate",
+      "cocoa",
+      "dessert",
+      "antioxidant",
+      "treat"
+    ],
+    "healthyBenefits": [
+      "70 percent cocoa solids",
+      "Rich in flavanols",
+      "Lower sugar than milk chocolate"
+    ],
+    "relatedCodes": [
+      "almonds",
+      "trail-mix",
+      "banana"
+    ],
+    "alternativeCodes": [
+      "roasted-makhana"
+    ],
+    "isNew": false,
+    "isBestseller": false,
+    "createdAt": "2026-02-16T00:00:00.000Z"
+  },
+  {
+    "code": "baked-chips",
+    "name": "Baked Vegetable Chips",
+    "category": "Healthy Snacks",
+    "secondaryCategories": [],
+    "price": 90,
+    "mrp": 90,
+    "unit": "90 g",
+    "packSize": 90,
+    "packUnit": "g",
+    "nutritionBasis": "per 100 g",
+    "basisAmount": 100,
+    "packGrams": 90,
+    "description": "Thin beetroot and potato slices baked rather than fried, so the same salty crunch carries far less oil.",
+    "rating": 4.1,
+    "reviewCount": 233,
+    "availability": "In Stock",
+    "stockCount": 109,
+    "calories": 460,
+    "protein": 6,
+    "carbs": 60,
+    "fat": 22,
+    "fiber": 4,
+    "dietType": "Vegetarian",
+    "tags": [
+      "baked",
+      "chips",
+      "less oil",
+      "healthy snack"
+    ],
+    "keywords": [
+      "chips",
+      "baked chips",
+      "wafers",
+      "snack",
+      "crisps"
+    ],
+    "healthyBenefits": [
+      "Baked, not fried",
+      "Lower fat than regular chips",
+      "Real vegetable slices"
+    ],
+    "relatedCodes": [
+      "protein-chips",
+      "roasted-makhana"
+    ],
+    "alternativeCodes": [
+      "roasted-makhana"
+    ],
+    "isNew": false,
+    "isBestseller": false,
+    "createdAt": "2026-02-17T00:00:00.000Z"
+  },
+  {
+    "code": "protein-chips",
+    "name": "Protein Chips",
+    "category": "Healthy Snacks",
+    "secondaryCategories": [
+      "Fitness Foods"
+    ],
+    "price": 140,
+    "mrp": 160,
+    "unit": "60 g",
+    "packSize": 60,
+    "packUnit": "g",
+    "nutritionBasis": "per 100 g",
+    "basisAmount": 100,
+    "packGrams": 60,
+    "description": "Lentil and chickpea chips puffed with plant protein instead of potato starch. 26 g protein per 100 g with a proper crunch.",
+    "rating": 4.3,
+    "reviewCount": 176,
+    "availability": "Low Stock",
+    "stockCount": 9,
+    "calories": 480,
+    "protein": 26,
+    "carbs": 45,
+    "fat": 22,
+    "fiber": 5,
+    "dietType": "Vegetarian",
+    "tags": [
+      "high protein",
+      "chips",
+      "baked",
+      "fitness"
+    ],
+    "keywords": [
+      "protein chips",
+      "chips",
+      "crisps",
+      "snack",
+      "protein",
+      "fitness"
+    ],
+    "healthyBenefits": [
+      "26 g protein per 100 g",
+      "Lentil and chickpea base",
+      "Better macros than crisps"
+    ],
+    "relatedCodes": [
+      "baked-chips",
+      "roasted-makhana",
+      "protein-bar"
+    ],
+    "alternativeCodes": [
+      "roasted-makhana"
+    ],
+    "isNew": true,
+    "isBestseller": false,
+    "createdAt": "2026-02-18T00:00:00.000Z"
+  },
+  {
+    "code": "protein-bar",
+    "name": "Protein Bar (Cocoa Almond)",
+    "category": "Fitness Foods",
+    "secondaryCategories": [],
+    "price": 120,
+    "mrp": 120,
+    "unit": "1 pack (60 g)",
+    "packSize": 60,
+    "packUnit": "g",
+    "nutritionBasis": "per bar (60 g)",
+    "basisAmount": 60,
+    "packGrams": 60,
+    "description": "A chewy cocoa-almond bar with 20 g of protein and no artificial sweeteners. The gym-bag snack that replaces a chocolate bar.",
+    "rating": 4.3,
+    "reviewCount": 264,
+    "availability": "In Stock",
+    "stockCount": 53,
+    "calories": 220,
+    "protein": 20,
+    "carbs": 24,
+    "fat": 6,
+    "fiber": 6,
+    "dietType": "Vegetarian",
+    "tags": [
+      "high protein",
+      "on the go",
+      "fitness",
+      "post workout"
+    ],
+    "keywords": [
+      "protein bar",
+      "bar",
+      "snack",
+      "fitness",
+      "post workout"
+    ],
+    "healthyBenefits": [
+      "20 g protein per bar",
+      "No artificial sweeteners",
+      "Convenient post-workout snack"
+    ],
+    "relatedCodes": [
+      "protein-chips",
+      "protein-milkshake",
+      "almonds"
+    ],
+    "alternativeCodes": [
+      "almonds"
+    ],
+    "isNew": false,
+    "isBestseller": true,
+    "createdAt": "2026-02-19T00:00:00.000Z"
+  },
+  {
+    "code": "low-fat-milk",
+    "name": "Low Fat Milk (Toned)",
+    "category": "Dairy",
+    "secondaryCategories": [],
+    "price": 70,
+    "mrp": 70,
+    "unit": "1 l",
+    "packSize": 1000,
+    "packUnit": "ml",
+    "nutritionBasis": "per 100 ml",
+    "basisAmount": 100,
+    "packGrams": 1000,
+    "description": "Pasteurised toned milk with the cream partly removed. Same calcium and protein, noticeably less fat.",
+    "rating": 4.3,
+    "reviewCount": 402,
+    "availability": "In Stock",
+    "stockCount": 70,
+    "calories": 42,
+    "protein": 3.4,
+    "carbs": 4.9,
+    "fat": 1.4,
+    "fiber": 0,
+    "dietType": "Vegetarian",
+    "tags": [
+      "low fat",
+      "calcium",
+      "everyday",
+      "protein"
+    ],
+    "keywords": [
+      "milk",
+      "low fat milk",
+      "toned milk",
+      "dairy",
+      "calcium"
+    ],
+    "healthyBenefits": [
+      "Protein with less fat",
+      "Calcium for bones",
+      "Fortified with vitamin D"
+    ],
+    "relatedCodes": [
+      "curd",
+      "oats",
+      "protein-milkshake"
+    ],
+    "alternativeCodes": [
+      "buttermilk"
+    ],
+    "isNew": false,
+    "isBestseller": true,
+    "createdAt": "2026-02-20T00:00:00.000Z"
+  },
+  {
+    "code": "curd",
+    "name": "Fresh Curd (Dahi)",
+    "category": "Dairy",
+    "secondaryCategories": [],
+    "price": 50,
+    "mrp": 50,
+    "unit": "400 g",
+    "packSize": 400,
+    "packUnit": "g",
+    "nutritionBasis": "per 100 g",
+    "basisAmount": 100,
+    "packGrams": 400,
+    "description": "Thick set curd with a mild tang. Cools down spicy meals and delivers live cultures for the gut.",
+    "rating": 4.4,
+    "reviewCount": 376,
+    "availability": "In Stock",
+    "stockCount": 87,
+    "calories": 61,
+    "protein": 3.5,
+    "carbs": 4.7,
+    "fat": 3.3,
+    "fiber": 0,
+    "dietType": "Vegetarian",
+    "tags": [
+      "probiotics",
+      "everyday",
+      "calcium",
+      "cooling"
+    ],
+    "keywords": [
+      "curd",
+      "dahi",
+      "yogurt",
+      "raita",
+      "probiotic"
+    ],
+    "healthyBenefits": [
+      "Live probiotic cultures",
+      "Good calcium source",
+      "Great with high fibre meals"
+    ],
+    "relatedCodes": [
+      "cucumber",
+      "ragi-flour",
+      "greek-yogurt"
+    ],
+    "alternativeCodes": [
+      "greek-yogurt"
+    ],
+    "isNew": false,
+    "isBestseller": false,
+    "createdAt": "2026-02-21T00:00:00.000Z"
+  },
+  {
+    "code": "buttermilk",
+    "name": "Spiced Buttermilk",
+    "category": "Dairy",
+    "secondaryCategories": [],
+    "price": 35,
+    "mrp": 35,
+    "unit": "500 ml",
+    "packSize": 500,
+    "packUnit": "ml",
+    "nutritionBasis": "per 100 ml",
+    "basisAmount": 100,
+    "packGrams": 500,
+    "description": "Light churned buttermilk tempered with cumin, curry leaf and ginger. India’s original electrolyte drink.",
+    "rating": 4.2,
+    "reviewCount": 231,
+    "availability": "In Stock",
+    "stockCount": 104,
+    "calories": 40,
+    "protein": 3.3,
+    "carbs": 4.8,
+    "fat": 0.9,
+    "fiber": 0,
+    "dietType": "Vegetarian",
+    "tags": [
+      "hydrating",
+      "low fat",
+      "digestion",
+      "probiotics"
+    ],
+    "keywords": [
+      "buttermilk",
+      "chaas",
+      "drink",
+      "hydration",
+      "digestion"
+    ],
+    "healthyBenefits": [
+      "Very low in fat",
+      "Supports digestion",
+      "Naturally hydrating"
+    ],
+    "relatedCodes": [
+      "coconut-water",
+      "low-fat-milk",
+      "curd"
+    ],
+    "alternativeCodes": [
+      "coconut-water"
+    ],
+    "isNew": false,
+    "isBestseller": false,
+    "createdAt": "2026-02-22T00:00:00.000Z"
+  },
+  {
+    "code": "coconut-water",
+    "name": "Tender Coconut Water",
+    "category": "Drinks",
+    "secondaryCategories": [],
+    "price": 45,
+    "mrp": 45,
+    "unit": "200 ml",
+    "packSize": 200,
+    "packUnit": "ml",
+    "nutritionBasis": "per 100 ml",
+    "basisAmount": 100,
+    "packGrams": 200,
+    "description": "Cold-pressed tender coconut water with naturally occurring potassium and no added sugar.",
+    "rating": 4.4,
+    "reviewCount": 288,
+    "availability": "In Stock",
+    "stockCount": 31,
+    "calories": 19,
+    "protein": 0.7,
+    "carbs": 3.7,
+    "fat": 0.2,
+    "fiber": 1.1,
+    "dietType": "Vegetarian",
+    "tags": [
+      "hydration",
+      "electrolytes",
+      "no added sugar"
+    ],
+    "keywords": [
+      "coconut water",
+      "drink",
+      "hydration",
+      "electrolytes",
+      "natural"
+    ],
+    "healthyBenefits": [
+      "Natural electrolytes",
+      "No added sugar",
+      "Low in calories"
+    ],
+    "relatedCodes": [
+      "watermelon",
+      "buttermilk",
+      "orange"
+    ],
+    "alternativeCodes": [
+      "buttermilk"
+    ],
+    "isNew": false,
+    "isBestseller": true,
+    "createdAt": "2026-02-23T00:00:00.000Z"
+  },
+  {
+    "code": "protein-milkshake",
+    "name": "Protein Milkshake (Chocolate)",
+    "category": "Drinks",
+    "secondaryCategories": [
+      "Fitness Foods"
+    ],
+    "price": 150,
+    "mrp": 170,
+    "unit": "200 ml",
+    "packSize": 200,
+    "packUnit": "ml",
+    "nutritionBasis": "per 100 ml",
+    "basisAmount": 100,
+    "packGrams": 200,
+    "description": "Ready-to-drink chocolate whey shake with 16 g protein per bottle. Chilled, smooth and far better than a soft drink.",
+    "rating": 4.2,
+    "reviewCount": 197,
+    "availability": "In Stock",
+    "stockCount": 48,
+    "calories": 65,
+    "protein": 8,
+    "carbs": 6,
+    "fat": 1,
+    "fiber": 0.5,
+    "dietType": "Vegetarian",
+    "tags": [
+      "high protein",
+      "post workout",
+      "fitness",
+      "ready to drink"
+    ],
+    "keywords": [
+      "protein shake",
+      "milkshake",
+      "drink",
+      "protein",
+      "post workout"
+    ],
+    "healthyBenefits": [
+      "16 g protein per bottle",
+      "Ready to drink",
+      "No added preservatives"
+    ],
+    "relatedCodes": [
+      "protein-bar",
+      "low-fat-milk",
+      "protein-oats"
+    ],
+    "alternativeCodes": [
+      "low-fat-milk"
+    ],
+    "isNew": true,
+    "isBestseller": false,
+    "createdAt": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "code": "cooking-oil",
+    "name": "Sunflower Cooking Oil",
+    "category": "Everyday Groceries",
+    "secondaryCategories": [],
+    "price": 160,
+    "mrp": 160,
+    "unit": "1 l",
+    "packSize": 1000,
+    "packUnit": "ml",
+    "nutritionBasis": "per 100 ml",
+    "basisAmount": 100,
+    "packGrams": 1000,
+    "description": "Refined sunflower oil with a light taste and a high smoke point. Vitamin A and D fortified.",
+    "rating": 4.1,
+    "reviewCount": 313,
+    "availability": "In Stock",
+    "stockCount": 65,
+    "calories": 884,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 100,
+    "fiber": 0,
+    "dietType": "Vegetarian",
+    "tags": [
+      "everyday",
+      "cooking",
+      "vitamin fortified"
+    ],
+    "keywords": [
+      "oil",
+      "sunflower oil",
+      "cooking oil",
+      "everyday",
+      "cooking"
+    ],
+    "healthyBenefits": [
+      "High in vitamin E",
+      "Fortified with vitamins A and D",
+      "Light taste"
+    ],
+    "relatedCodes": [
+      "onion",
+      "tomato",
+      "green-chilli"
+    ],
+    "alternativeCodes": [
+      "peanut-butter"
+    ],
+    "isNew": false,
+    "isBestseller": false,
+    "createdAt": "2026-02-25T00:00:00.000Z"
+  },
+  {
+    "code": "green-chilli",
+    "name": "Green Chilli",
+    "category": "Everyday Groceries",
+    "secondaryCategories": [],
+    "price": 15,
+    "mrp": 15,
+    "unit": "100 g",
+    "packSize": 100,
+    "packUnit": "g",
+    "nutritionBasis": "per 100 g",
+    "basisAmount": 100,
+    "packGrams": 100,
+    "description": "Fresh hot green chillies for tempering and chutneys. A little goes a long way.",
+    "rating": 4,
+    "reviewCount": 178,
+    "availability": "In Stock",
+    "stockCount": 82,
+    "calories": 40,
+    "protein": 2,
+    "carbs": 8.8,
+    "fat": 0.4,
+    "fiber": 1.5,
+    "dietType": "Vegetarian",
+    "tags": [
+      "everyday",
+      "spice",
+      "tempering"
+    ],
+    "keywords": [
+      "green chilli",
+      "mirchi",
+      "chilli",
+      "spice",
+      "tempering"
+    ],
+    "healthyBenefits": [
+      "Contains capsaicin",
+      "Very low calorie flavour boost",
+      "Supports metabolism"
+    ],
+    "relatedCodes": [
+      "onion",
+      "tomato",
+      "cooking-oil"
+    ],
+    "alternativeCodes": [],
+    "isNew": false,
+    "isBestseller": false,
+    "createdAt": "2026-02-26T00:00:00.000Z"
+  }
+]

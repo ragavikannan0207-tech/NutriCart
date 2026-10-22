@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 260" width="480" height="260" role="img" aria-label="For You">
+  <defs>
+    <linearGradient id="b" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#285231"/>
+      <stop offset="100%" stop-color="#8ba376"/>
+    </linearGradient>
+  </defs>
+  <rect width="480" height="260" fill="url(#b)"/>
+  <circle cx="380" cy="60" r="120" fill="#ffffff" fill-opacity="0.08"/>
+  <circle cx="120" cy="220" r="90" fill="#ffffff" fill-opacity="0.06"/>
+  <text x="360" y="168" font-size="120" text-anchor="middle" font-family="Apple Color Emoji, Segoe UI Emoji, Noto Color Emoji, sans-serif">🧭</text>
+</svg>

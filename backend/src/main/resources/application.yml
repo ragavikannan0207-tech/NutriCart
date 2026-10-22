@@ -1,0 +1,63 @@
+server:
+  port: 8080
+  error:
+    include-message: never
+
+spring:
+  config:
+    import: optional:file:.env[.properties]
+  application:
+    name: nutricart
+
+  datasource:
+    # Change the database name / credentials for your machine, or set the
+    # NUTRICART_DB_URL, NUTRICART_DB_USER and NUTRICART_DB_PASSWORD variables.
+    url: ${NUTRICART_DB_URL:jdbc:mysql://localhost:3306/nutricart?createDatabaseIfNotExist=true&useSSL=false&allowPublicKeyRetrieval=true&serverTimezone=Asia/Kolkata}
+    username: ${NUTRICART_DB_USER}
+    password: ${NUTRICART_DB_PASSWORD}
+    driver-class-name: com.mysql.cj.jdbc.Driver
+
+  jpa:
+    hibernate:
+      # `update` lets a brand new MySQL database work with zero manual steps.
+      # database/schema.sql contains the equivalent explicit DDL for reviewers.
+      ddl-auto: update
+    open-in-view: false
+    properties:
+      hibernate:
+        format_sql: false
+        jdbc:
+          batch_size: 25
+    show-sql: false
+
+  jackson:
+    default-property-inclusion: non_null
+    serialization:
+      write-dates-as-timestamps: false
+
+nutricart:
+  jwt:
+    # 256-bit secret for HS256. Override in production.
+    secret: ${NUTRICART_JWT_SECRET}
+    expiration-minutes: ${NUTRICART_JWT_MINUTES:1440}
+  cors:
+    # The React dev server (Vite) usually runs on 5173, but falls back to 5174+
+    # when that port is taken — both are allowed so a port bump never breaks the
+    # frontend -> API connection.
+    allowed-origins: ${NUTRICART_CORS_ORIGINS:http://localhost:5173,http://127.0.0.1:5173,http://localhost:5174,http://127.0.0.1:5174}
+  # Order lifecycle timings (minutes from placement) inside the 10-20 minute promise.
+  order:
+    processing-after-minutes: 2
+    packed-after-minutes: 5
+    out-for-delivery-after-minutes: 8
+    delivered-after-minutes: 15
+    cancellation-window-seconds: 60
+  seed:
+    # Seeds the 56 product / 13 recipe catalogue into MySQL when the tables are empty.
+    catalogue: true
+
+logging:
+  level:
+    root: info
+    com.nutricart: info
+    org.hibernate.SQL: warn
